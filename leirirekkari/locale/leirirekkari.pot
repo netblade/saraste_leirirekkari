@@ -1,0 +1,4187 @@
+# Translations template for leirirekkari.
+# Copyright (C) 2012 ORGANIZATION
+# This file is distributed under the same license as the leirirekkari project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: leirirekkari 0.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2012-08-09 11:54+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: leirirekkari/templates/additional_translations.mak:1
+msgid "age_group_0"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:2
+msgid "age_group_1"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:3
+msgid "age_group_2"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:4
+msgid "age_group_3"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:5
+msgid "age_group_4"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:6
+msgid "age_group_5"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:7
+msgid "age_group_6"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:8
+msgid "age_group_7"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:10
+msgid "sex_0"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:11
+msgid "sex_10"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:12
+msgid "sex_20"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:14
+msgid "spiritual_0"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:15
+msgid "spiritual_10"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:16
+msgid "spiritual_20"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:18
+msgid "view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:19
+msgid "settings_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:20
+msgid "settings_list"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:21
+msgid "settings_users"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:22
+msgid "settings_users_modify"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:23
+msgid "settings_users_activations"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:24
+msgid "settings_users_modify_groups"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:25
+msgid "settings_users_modify_permissions"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:26
+msgid "settings_groups"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:27
+msgid "settings_groups_modify"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:28
+msgid "settings_groups_modify_persons"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:29
+msgid "settings_groups_modify_permissions"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:30
+msgid "settings_me"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:31
+msgid "settings_imports"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:32
+msgid "settings_organization"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:33
+msgid "medical_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:34
+msgid "medical_add_card"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:35
+msgid "medical_nurse"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:36
+msgid "medical_doctor"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:37
+msgid "medical_settings"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:38
+msgid "kitchen_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:39
+msgid "kitchen_view_allergies"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:40
+msgid "programme_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:41
+msgid "security_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:42
+msgid "security_shifts_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:43
+msgid "security_shifts_modify"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:44
+msgid "security_shifts_log_modify"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:45
+msgid "security_participant_status"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:46
+msgid "security_participant_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:47
+msgid "office_participant_view_polku"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:48
+msgid "office_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:49
+msgid "office_participant_view"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:50
+msgid "office_participant_view_medical"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:51
+msgid "office_participant_new"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:52
+msgid "office_participant_edit"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:53
+msgid "office_participant_delete"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:55
+msgid "Audit action"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:57
+msgid "Audit action: Update"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:58
+msgid "Audit action: Password update"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:59
+msgid "Audit action: Create"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:60
+msgid "Audit action: Imported"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:61
+#: leirirekkari/templates/additional_translations.mak:62
+msgid "Audit action: "
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:64
+#: leirirekkari/templates/office/report.mak:605
+#: leirirekkari/templates/office/report.mak:624
+#: leirirekkari/templates/office/report_excel.mak:265
+#: leirirekkari/templates/office/report_excel.mak:284
+#: leirirekkari/templates/security/participant/search.mak:75
+#: leirirekkari/views/office.py:1162 leirirekkari/views/office.py:1172
+msgid "Participant status: 0"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:65
+msgid "Participant status: 10"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:66
+msgid "Participant status: 30"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:67
+msgid "Participant status: 50"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:68
+msgid "Participant status: 110"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:69
+msgid "Participant status: 200"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:71
+msgid "To_view_basic_info"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:72
+msgid "To_view_status"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:73
+msgid "To_view_status_all"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:74
+msgid "To_view_age_group"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:75
+msgid "To_view_club"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:76
+msgid "To_view_subunit"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:77
+msgid "To_view_village"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:78
+msgid "To_view_subcamp"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:79
+msgid "To_view_presence"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:80
+msgid "To_view_next_of_kin"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:81
+msgid "To_view_medical_diets"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:82
+msgid "To_view_medical_food_allergies"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:83
+msgid "To_view_medical_allergies"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:84
+msgid "To_view_medical_other"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:85
+msgid "To_view_birthdate"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:86
+msgid "To_view_wishes"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:87
+msgid "To_view_address"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:88
+msgid "To_view_phone_and_email"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:89
+msgid "To_view_languages"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:90
+msgid "To_view_age"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:91
+msgid "To_view_sex"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:92
+msgid "To_view_spiritual"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:93
+msgid "To_view_medical_allergies_boolean"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:94
+msgid "To_view_booking_no"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:95
+msgid "To_view_designation_title"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:96
+msgid "To_view_medical_diets_boolean"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:97
+msgid "To_view_village_kitchen"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:98
+msgid "To_view_medical_food_allergies_boolean"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:99
+msgid "To_view_designation_all"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:100
+msgid "To_view_medical_need_help_boolean"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:101
+msgid "To_view_polku_member_id"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:102
+msgid "To_view_kitchen_table"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:103
+msgid "To_view_payments"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:106
+msgid "Additional search field: Participant.firstname"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:107
+msgid "Additional search field: Participant.lastname"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:108
+msgid "Additional search field: Participant.nickname"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:109
+msgid "Additional search field: Participant.title"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:110
+msgid "Additional search field: Participant.email"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:111
+msgid "Additional search field: Participant.member_no"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:112
+msgid "Additional search field: Participant.member_id"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:113
+msgid "Additional search field: Participant.booking_no"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:114
+msgid "Additional search field: Participant.notes"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:115
+msgid "Additional search field: Participant.specialities"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:116
+msgid "Additional search field: ParticipantNextOfKin.name"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:117
+msgid "Additional search field: ParticipantNextOfKin.email"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:118
+msgid "Additional search field: ParticipantNextOfKin.phone"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:119
+msgid "Additional search field: ParticipantPhone.phone"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:120
+msgid "Additional search field: ParticipantLanguage.language"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:121
+msgid "Additional search field: ParticipantAddress.street"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:122
+msgid "Additional search field: ParticipantAddress.postalcode"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:123
+msgid "Additional search field: ParticipantAddress.city"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:126
+msgid "Additional search type: =="
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:127
+msgid "Additional search type: !="
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:128
+msgid "Additional search type: LIKE"
+msgstr ""
+
+#: leirirekkari/templates/additional_translations.mak:129
+msgid "Additional search type: IN"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:13 leirirekkari/templates/base_clean.mak:12
+#: leirirekkari/templates/home.mak:18 leirirekkari/templates/notfound.mak:14
+#: leirirekkari/templates/medical/card/edit.mak:93
+#: leirirekkari/templates/medical/card/new.mak:85
+#: leirirekkari/templates/medical/card/view.mak:63
+msgid "Camp registry"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:91 leirirekkari/templates/medical/index.mak:59
+#: leirirekkari/templates/medical/stats.mak:101
+#: leirirekkari/templates/medical/card/list.mak:60
+#: leirirekkari/templates/medical/settings/index.mak:18
+#: leirirekkari/templates/settings/index.mak:17
+#: leirirekkari/templates/settings/index.mak:31
+#: leirirekkari/templates/settings/list.mak:16
+#: leirirekkari/templates/settings/imports/clubs.mak:23
+#: leirirekkari/templates/settings/imports/organization.mak:23
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:23
+#: leirirekkari/templates/settings/imports/polkubookings.mak:23
+#: leirirekkari/templates/settings/imports/polkuit.mak:23
+#: leirirekkari/templates/settings/imports/presence.mak:23
+#: leirirekkari/templates/settings/imports/users.mak:23
+#: leirirekkari/views/medical.py:414 leirirekkari/views/medical.py:440
+#: leirirekkari/views/medical.py:469 leirirekkari/views/medical.py:496
+#: leirirekkari/views/medical.py:525 leirirekkari/views/medical.py:552
+#: leirirekkari/views/medical.py:581 leirirekkari/views/settings.py:37
+#: leirirekkari/views/settings.py:48 leirirekkari/views/settings.py:87
+#: leirirekkari/views/settings.py:146 leirirekkari/views/settings_import.py:91
+#: leirirekkari/views/settings_import.py:187
+#: leirirekkari/views/settings_import.py:212
+#: leirirekkari/views/settings_import.py:264
+#: leirirekkari/views/settings_import.py:347
+#: leirirekkari/views/settings_import.py:518
+#: leirirekkari/views/settings_import.py:1176
+#: leirirekkari/views/settings_import.py:1314
+#: leirirekkari/views/settings_import.py:1385
+#: leirirekkari/views/settings_import.py:1519
+#: leirirekkari/views/settings_organization.py:43
+#: leirirekkari/views/settings_organization.py:85
+#: leirirekkari/views/settings_organization.py:137
+#: leirirekkari/views/settings_organization.py:185
+#: leirirekkari/views/settings_organization.py:245
+#: leirirekkari/views/settings_organization.py:293
+#: leirirekkari/views/settings_organization.py:351
+#: leirirekkari/views/settings_organization.py:401
+#: leirirekkari/views/settings_organization.py:463
+#: leirirekkari/views/settings_organization.py:514
+#: leirirekkari/views/settings_organization.py:583
+#: leirirekkari/views/settings_user.py:49 leirirekkari/views/settings_user.py:88
+#: leirirekkari/views/settings_user.py:220 leirirekkari/views/settings_user.py:387
+#: leirirekkari/views/settings_user.py:505 leirirekkari/views/settings_user.py:531
+#: leirirekkari/views/settings_user.py:580 leirirekkari/views/settings_user.py:644
+#: leirirekkari/views/settings_user.py:705 leirirekkari/views/settings_user.py:797
+msgid "Settings"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:92
+msgid "Log out"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:98
+msgid "Home"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:100 leirirekkari/templates/home.mak:25
+#: leirirekkari/templates/office/index.mak:25 leirirekkari/views/office.py:144
+#: leirirekkari/views/office.py:308 leirirekkari/views/office.py:554
+#: leirirekkari/views/office.py:604 leirirekkari/views/office.py:653
+#: leirirekkari/views/office.py:718 leirirekkari/views/office.py:763
+#: leirirekkari/views/office.py:2012 leirirekkari/views/office.py:2060
+msgid "Office"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:103 leirirekkari/templates/base.mak:142
+#: leirirekkari/templates/home.mak:28 leirirekkari/templates/security/index.mak:17
+#: leirirekkari/views/security.py:70 leirirekkari/views/security.py:81
+#: leirirekkari/views/security.py:114 leirirekkari/views/security.py:152
+#: leirirekkari/views/security.py:199 leirirekkari/views/security.py:238
+#: leirirekkari/views/security.py:295 leirirekkari/views/security.py:333
+msgid "Security"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:107 leirirekkari/templates/home.mak:32
+msgid "Programme"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:111 leirirekkari/templates/home.mak:36
+#: leirirekkari/views/kitchen.py:118 leirirekkari/views/kitchen.py:164
+msgid "Kitchen"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:115 leirirekkari/templates/home.mak:40
+#: leirirekkari/templates/medical/index.mak:20 leirirekkari/views/medical.py:87
+#: leirirekkari/views/medical.py:243 leirirekkari/views/medical.py:366
+#: leirirekkari/views/medical.py:397 leirirekkari/views/medical.py:413
+#: leirirekkari/views/medical.py:439 leirirekkari/views/medical.py:468
+#: leirirekkari/views/medical.py:495 leirirekkari/views/medical.py:524
+#: leirirekkari/views/medical.py:551 leirirekkari/views/medical.py:580
+#: leirirekkari/views/medical.py:653
+msgid "Medical"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:142
+msgid "Frontpage"
+msgstr ""
+
+#: leirirekkari/templates/base.mak:161
+#: leirirekkari/templates/feedback/add_box.mak:12
+#: leirirekkari/templates/feedback/add_box.mak:21
+#: leirirekkari/templates/feedback/add_box_submit.mak:12
+msgid "Feedback"
+msgstr ""
+
+#: leirirekkari/templates/forbidden.mak:9
+msgid "Access denied"
+msgstr ""
+
+#: leirirekkari/templates/forbidden.mak:16 leirirekkari/templates/login.mak:18
+#: leirirekkari/templates/notfound.mak:21
+msgid ""
+"You cant use Internet Explorer or Safari for this site, please install Chrome"
+" or Firefox."
+msgstr ""
+
+#: leirirekkari/templates/forbidden.mak:23 leirirekkari/templates/login.mak:25
+#: leirirekkari/templates/notfound.mak:28
+msgid ""
+"You cant use your device for this site Please login from a device thats a bit"
+" more secure"
+msgstr ""
+
+#: leirirekkari/templates/forbidden.mak:28 leirirekkari/templates/login.mak:30
+#: leirirekkari/templates/settings/users/view.mak:94
+msgid "Login"
+msgstr ""
+
+#: leirirekkari/templates/forbidden.mak:30 leirirekkari/templates/login.mak:32
+#: leirirekkari/templates/settings/me/edit.mak:64
+#: leirirekkari/templates/settings/users/edit.mak:69
+#: leirirekkari/templates/settings/users/new.mak:68
+msgid "Password"
+msgstr ""
+
+#: leirirekkari/templates/forbidden.mak:32 leirirekkari/templates/login.mak:34
+msgid "Log in"
+msgstr ""
+
+#: leirirekkari/templates/notfound.mak:31
+msgid "Page not found"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:13
+msgid ""
+"Send feedback about the leirirekkari. Or bug report. Or wish list item. Or "
+"just say hey"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:18
+#: leirirekkari/templates/medical/card/edit.mak:321
+#: leirirekkari/templates/medical/card/edit.mak:360
+#: leirirekkari/templates/medical/card/new.mak:310
+#: leirirekkari/templates/medical/card/view.mak:220
+#: leirirekkari/templates/medical/card/view.mak:249
+#: leirirekkari/templates/medical/card/view.mak:277
+#: leirirekkari/templates/medical/card/view.mak:305
+msgid "Type"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:22
+msgid "Bug report"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:23
+msgid "Wish list item"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:24
+msgid "Hey"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:29
+#: leirirekkari/templates/medical/stats.mak:29
+#: leirirekkari/templates/medical/stats.mak:49
+#: leirirekkari/templates/medical/stats.mak:69
+#: leirirekkari/templates/medical/settings/edit_methodofarrival.mak:25
+#: leirirekkari/templates/medical/settings/edit_reason.mak:25
+#: leirirekkari/templates/medical/settings/edit_treatmenttype.mak:25
+#: leirirekkari/templates/medical/settings/index.mak:28
+#: leirirekkari/templates/medical/settings/index.mak:50
+#: leirirekkari/templates/medical/settings/index.mak:72
+#: leirirekkari/templates/medical/settings/new_methodofarrival.mak:25
+#: leirirekkari/templates/medical/settings/new_reason.mak:25
+#: leirirekkari/templates/medical/settings/new_treatmenttype.mak:25
+#: leirirekkari/templates/office/participant/edit.mak:334
+#: leirirekkari/templates/office/participant/edit.mak:366
+#: leirirekkari/templates/office/participant/new.mak:327
+#: leirirekkari/templates/office/participant/new.mak:359
+#: leirirekkari/templates/office/participant/new.mak:387
+#: leirirekkari/templates/office/participant/view.mak:319
+#: leirirekkari/templates/office/participant/view_payments.mak:76
+#: leirirekkari/templates/office/participant/view_payments.mak:163
+msgid "Title"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:33
+msgid "Content"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box.mak:36
+msgid "Send"
+msgstr ""
+
+#: leirirekkari/templates/feedback/add_box_submit.mak:14
+msgid "Thank you"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/all.mak:32
+#: leirirekkari/templates/kitchen/index.mak:32
+#: leirirekkari/templates/office/presences/clubs.mak:37
+#: leirirekkari/templates/office/presences/index.mak:37
+#: leirirekkari/templates/settings/index.mak:34
+#: leirirekkari/templates/settings/organization/index.mak:25
+#: leirirekkari/views/settings_organization.py:44
+#: leirirekkari/views/settings_organization.py:86
+#: leirirekkari/views/settings_organization.py:138
+#: leirirekkari/views/settings_organization.py:186
+#: leirirekkari/views/settings_organization.py:246
+#: leirirekkari/views/settings_organization.py:294
+#: leirirekkari/views/settings_organization.py:352
+#: leirirekkari/views/settings_organization.py:402
+#: leirirekkari/views/settings_organization.py:464
+#: leirirekkari/views/settings_organization.py:515
+#: leirirekkari/views/settings_organization.py:584
+msgid "Organization"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/all.mak:41
+#: leirirekkari/templates/kitchen/index.mak:50
+#: leirirekkari/templates/kitchen/index.mak:237
+#: leirirekkari/templates/office/presences/clubs.mak:57
+#: leirirekkari/templates/office/presences/index.mak:55
+msgid "Unit"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/index.mak:41
+#: leirirekkari/templates/office/presences/clubs.mak:46
+#: leirirekkari/templates/office/presences/index.mak:46
+msgid "Select date"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/index.mak:43
+#: leirirekkari/templates/office/presences/clubs.mak:48
+#: leirirekkari/templates/office/presences/index.mak:48
+msgid "Refresh"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/index.mak:233
+#: leirirekkari/templates/settings/organization/index.mak:119
+msgid "Village kitchens"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/index.mak:243
+#: leirirekkari/templates/medical/search_participant_res.mak:16
+#: leirirekkari/templates/office/index.mak:92
+#: leirirekkari/templates/office/report.mak:210
+#: leirirekkari/templates/office/report.mak:443
+#: leirirekkari/templates/office/report_excel.mak:113
+#: leirirekkari/templates/office/participant/search.mak:48
+#: leirirekkari/templates/office/participant/view.mak:102
+#: leirirekkari/templates/security/participant/search.mak:48
+#: leirirekkari/templates/security/participant/view.mak:84
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:23
+#: leirirekkari/templates/settings/organization/edit_village.mak:33
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:33
+#: leirirekkari/templates/settings/organization/index.mak:124
+#: leirirekkari/templates/settings/organization/new_club.mak:23
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:23
+#: leirirekkari/templates/settings/organization/new_subunit.mak:23
+#: leirirekkari/templates/settings/organization/new_village.mak:23
+#: leirirekkari/templates/settings/organization/new_village.mak:33
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:33
+#: leirirekkari/views/office.py:985
+msgid "Subcamp"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/index.mak:244
+#: leirirekkari/templates/office/index.mak:108
+#: leirirekkari/templates/office/report.mak:234
+#: leirirekkari/templates/office/report.mak:449
+#: leirirekkari/templates/office/report_excel.mak:119
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:23
+#: leirirekkari/templates/settings/organization/index.mak:125
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:23
+#: leirirekkari/views/office.py:993
+msgid "Village kitchen"
+msgstr ""
+
+#: leirirekkari/templates/kitchen/index.mak:245
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:45
+#: leirirekkari/templates/settings/organization/index.mak:126
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:45
+msgid "Villages"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:27
+msgid "Go to card"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:29
+msgid "Search by card id or patient name or membernumber"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:31
+#: leirirekkari/templates/medical/index.mak:45
+#: leirirekkari/templates/office/index.mak:31
+#: leirirekkari/templates/office/index.mak:35
+#: leirirekkari/templates/office/report.mak:78
+#: leirirekkari/templates/office/report.mak:82
+#: leirirekkari/templates/office/participant/search.mak:34
+#: leirirekkari/templates/security/index.mak:38
+#: leirirekkari/templates/security/participant/search.mak:35
+#: leirirekkari/views/office.py:719 leirirekkari/views/security.py:296
+#: leirirekkari/views/security.py:334
+msgid "Search"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:41
+#: leirirekkari/templates/office/report.mak:68
+#: leirirekkari/templates/office/participant/search.mak:20
+#: leirirekkari/templates/security/participant/search.mak:21
+msgid "Search participant"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:43
+#: leirirekkari/templates/office/index.mak:33
+#: leirirekkari/templates/office/report.mak:80
+#: leirirekkari/templates/office/participant/search.mak:30
+#: leirirekkari/templates/security/index.mak:34
+#: leirirekkari/templates/security/participant/search.mak:31
+msgid "Search by text"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:57
+#: leirirekkari/templates/medical/stats.mak:99
+#: leirirekkari/templates/medical/card/list.mak:58
+msgid "Cards"
+msgstr ""
+
+#: leirirekkari/templates/medical/index.mak:58
+#: leirirekkari/templates/medical/stats.mak:100
+#: leirirekkari/templates/medical/card/list.mak:59
+#: leirirekkari/views/medical.py:654
+msgid "Statistics"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:7
+#: leirirekkari/templates/medical/search_card_res.mak:32
+#: leirirekkari/templates/medical/search_participant_res.mak:7
+#: leirirekkari/templates/medical/search_participant_res.mak:39
+#: leirirekkari/templates/medical/card/list.mak:25
+#: leirirekkari/templates/medical/card/list.mak:50
+msgid "Results"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:11
+#: leirirekkari/templates/medical/card/list.mak:29
+#: leirirekkari/templates/medical/card/view.mak:337
+#: leirirekkari/templates/settings/groups/index.mak:24
+msgid "Id"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:12
+#: leirirekkari/templates/medical/card/list.mak:30
+msgid "Patient"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:13
+#: leirirekkari/templates/medical/card/list.mak:31
+#: leirirekkari/templates/medical/card/view.mak:338
+#: leirirekkari/templates/office/index.mak:75
+#: leirirekkari/templates/office/report.mak:167
+#: leirirekkari/templates/office/report.mak:418
+#: leirirekkari/templates/office/report.mak:422
+#: leirirekkari/templates/office/report_excel.mak:88
+#: leirirekkari/templates/office/report_excel.mak:92
+#: leirirekkari/templates/security/participant/search.mak:45
+#: leirirekkari/views/office.py:951 leirirekkari/views/office.py:956
+msgid "Status"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:14
+#: leirirekkari/templates/medical/card/list.mak:32
+#: leirirekkari/templates/medical/card/view.mak:339
+msgid "Created"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:25
+#: leirirekkari/templates/medical/card/list.mak:43
+#: leirirekkari/templates/medical/card/view.mak:56
+#: leirirekkari/templates/medical/card/view.mak:346
+msgid "card_status_"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_card_res.mak:33
+#: leirirekkari/templates/medical/card/list.mak:51
+msgid "No cards found"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:11
+msgid "Card"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:12
+#: leirirekkari/templates/office/presences.mak:39
+#: leirirekkari/templates/office/presences.mak:108
+#: leirirekkari/templates/office/participant/edit.mak:241
+#: leirirekkari/templates/office/participant/edit.mak:258
+#: leirirekkari/templates/office/participant/new.mak:237
+#: leirirekkari/templates/office/participant/new.mak:254
+#: leirirekkari/templates/office/participant/view.mak:193
+#: leirirekkari/templates/office/participant/view.mak:204
+#: leirirekkari/templates/security/participant/search.mak:44
+#: leirirekkari/templates/settings/groups/edit.mak:25
+#: leirirekkari/templates/settings/groups/index.mak:25
+#: leirirekkari/templates/settings/groups/new.mak:25
+#: leirirekkari/templates/settings/groups/view.mak:26
+#: leirirekkari/templates/settings/organization/edit_club.mak:25
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:25
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:25
+#: leirirekkari/templates/settings/organization/edit_village.mak:25
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:25
+#: leirirekkari/templates/settings/organization/index.mak:34
+#: leirirekkari/templates/settings/organization/index.mak:103
+#: leirirekkari/templates/settings/organization/new_club.mak:25
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:25
+#: leirirekkari/templates/settings/organization/new_subunit.mak:25
+#: leirirekkari/templates/settings/organization/new_village.mak:25
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:25
+msgid "Name"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:13
+#: leirirekkari/templates/office/index.mak:124
+#: leirirekkari/templates/office/report.mak:258
+#: leirirekkari/templates/office/report.mak:440
+#: leirirekkari/templates/office/report_excel.mak:110
+#: leirirekkari/templates/office/participant/edit.mak:131
+#: leirirekkari/templates/office/participant/new.mak:131
+#: leirirekkari/templates/office/participant/search.mak:47
+#: leirirekkari/templates/office/participant/view.mak:93
+#: leirirekkari/templates/security/participant/search.mak:47
+#: leirirekkari/templates/security/participant/view.mak:75
+#: leirirekkari/templates/settings/organization/edit_club.mak:23
+#: leirirekkari/views/office.py:981
+msgid "Club"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:14
+#: leirirekkari/templates/office/index.mak:116
+#: leirirekkari/templates/office/report.mak:246
+#: leirirekkari/templates/office/report.mak:452
+#: leirirekkari/templates/office/report_excel.mak:122
+#: leirirekkari/templates/office/participant/edit.mak:144
+#: leirirekkari/templates/office/participant/new.mak:144
+#: leirirekkari/templates/office/participant/search.mak:50
+#: leirirekkari/templates/office/participant/view.mak:96
+#: leirirekkari/templates/security/participant/search.mak:50
+#: leirirekkari/templates/security/participant/view.mak:78
+#: leirirekkari/views/office.py:997
+msgid "Subunit"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:15
+#: leirirekkari/templates/office/index.mak:100
+#: leirirekkari/templates/office/report.mak:222
+#: leirirekkari/templates/office/report.mak:446
+#: leirirekkari/templates/office/report_excel.mak:116
+#: leirirekkari/templates/office/participant/search.mak:49
+#: leirirekkari/templates/office/participant/view.mak:99
+#: leirirekkari/templates/security/participant/search.mak:49
+#: leirirekkari/templates/security/participant/view.mak:81
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:33
+#: leirirekkari/templates/settings/organization/edit_village.mak:23
+#: leirirekkari/templates/settings/organization/new_subunit.mak:33
+#: leirirekkari/views/office.py:989
+msgid "Village"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:22
+#: leirirekkari/templates/medical/card/new.mak:331
+#: leirirekkari/templates/medical/settings/new_methodofarrival.mak:34
+#: leirirekkari/templates/medical/settings/new_reason.mak:34
+#: leirirekkari/templates/medical/settings/new_treatmenttype.mak:34
+#: leirirekkari/templates/office/participant/new.mak:517
+#: leirirekkari/templates/security/shifts/edit.mak:46
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:79
+#: leirirekkari/templates/security/shifts/index.mak:50
+#: leirirekkari/templates/security/shifts/new.mak:38
+#: leirirekkari/templates/security/shifts/new.mak:46
+#: leirirekkari/templates/security/shifts/view.mak:75
+#: leirirekkari/templates/security/shifts/view.mak:132
+#: leirirekkari/templates/settings/edit.mak:52
+#: leirirekkari/templates/settings/list.mak:39
+#: leirirekkari/templates/settings/new.mak:34
+#: leirirekkari/templates/settings/new.mak:42
+#: leirirekkari/templates/settings/groups/edit.mak:44
+#: leirirekkari/templates/settings/groups/index.mak:40
+#: leirirekkari/templates/settings/groups/new.mak:38
+#: leirirekkari/templates/settings/groups/new.mak:46
+#: leirirekkari/templates/settings/groups/view.mak:57
+#: leirirekkari/templates/settings/me/edit.mak:81
+#: leirirekkari/templates/settings/organization/new_club.mak:47
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:35
+#: leirirekkari/templates/settings/organization/new_subunit.mak:43
+#: leirirekkari/templates/settings/organization/new_village.mak:43
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:59
+#: leirirekkari/templates/settings/users/edit.mak:113
+#: leirirekkari/templates/settings/users/index.mak:43
+#: leirirekkari/templates/settings/users/new.mak:107
+#: leirirekkari/templates/settings/users/new.mak:115
+#: leirirekkari/templates/settings/users/view.mak:123
+#: leirirekkari/views/security.py:116
+msgid "Create"
+msgstr ""
+
+#: leirirekkari/templates/medical/search_participant_res.mak:40
+msgid "No participants found"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:19
+#: leirirekkari/templates/medical/card/list.mak:19
+#: leirirekkari/views/medical.py:398
+msgid "View card"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:25
+#: leirirekkari/templates/medical/settings/index.mak:23
+msgid "Reasons"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:30
+#: leirirekkari/templates/medical/stats.mak:50
+#: leirirekkari/templates/medical/stats.mak:70
+msgid "Count"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:45
+#: leirirekkari/templates/medical/card/edit.mak:260
+#: leirirekkari/templates/medical/card/new.mak:252
+#: leirirekkari/templates/medical/card/view.mak:191
+msgid "Treatment type"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:65
+#: leirirekkari/templates/medical/card/edit.mak:45
+#: leirirekkari/templates/medical/card/new.mak:37
+#: leirirekkari/templates/medical/card/view.mak:53
+msgid "Method of arrival"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:87
+msgid "Start"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:90
+msgid "End"
+msgstr ""
+
+#: leirirekkari/templates/medical/stats.mak:93
+msgid "Update view"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:18
+#: leirirekkari/templates/medical/card/view.mak:19
+msgid "Card id"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:20
+#: leirirekkari/templates/medical/card/view.mak:21
+msgid "View card for"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:33
+#: leirirekkari/templates/medical/card/new.mak:25
+msgid "Card info"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:37
+#: leirirekkari/templates/medical/card/new.mak:29
+#: leirirekkari/templates/medical/card/view.mak:37
+msgid "Checked in"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:41
+#: leirirekkari/templates/medical/card/new.mak:33
+#: leirirekkari/templates/medical/card/view.mak:41
+#: leirirekkari/templates/medical/card/view.mak:47
+#: leirirekkari/templates/medical/card/view.mak:49
+msgid "Checked out"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:62
+#: leirirekkari/templates/medical/card/new.mak:54
+#: leirirekkari/templates/medical/card/view.mak:56
+msgid "Card status"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:65
+#: leirirekkari/templates/medical/card/edit.mak:70
+#: leirirekkari/templates/medical/card/edit.mak:75
+#: leirirekkari/templates/medical/card/edit.mak:80
+#: leirirekkari/templates/medical/card/new.mak:57
+#: leirirekkari/templates/medical/card/new.mak:62
+#: leirirekkari/templates/medical/card/new.mak:67
+#: leirirekkari/templates/medical/card/new.mak:72
+msgid "card_status_0"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:66
+#: leirirekkari/templates/medical/card/edit.mak:71
+#: leirirekkari/templates/medical/card/edit.mak:76
+#: leirirekkari/templates/medical/card/edit.mak:81
+#: leirirekkari/templates/medical/card/new.mak:58
+#: leirirekkari/templates/medical/card/new.mak:63
+#: leirirekkari/templates/medical/card/new.mak:68
+#: leirirekkari/templates/medical/card/new.mak:73
+msgid "card_status_10"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:67
+#: leirirekkari/templates/medical/card/edit.mak:72
+#: leirirekkari/templates/medical/card/edit.mak:77
+#: leirirekkari/templates/medical/card/edit.mak:82
+#: leirirekkari/templates/medical/card/new.mak:59
+#: leirirekkari/templates/medical/card/new.mak:64
+#: leirirekkari/templates/medical/card/new.mak:69
+#: leirirekkari/templates/medical/card/new.mak:74
+msgid "card_status_20"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:68
+#: leirirekkari/templates/medical/card/edit.mak:73
+#: leirirekkari/templates/medical/card/edit.mak:78
+#: leirirekkari/templates/medical/card/edit.mak:83
+#: leirirekkari/templates/medical/card/new.mak:60
+#: leirirekkari/templates/medical/card/new.mak:65
+#: leirirekkari/templates/medical/card/new.mak:70
+#: leirirekkari/templates/medical/card/new.mak:75
+msgid "card_status_30"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:91
+#: leirirekkari/templates/medical/card/new.mak:83
+#: leirirekkari/templates/medical/card/view.mak:61
+msgid "Patient info"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:103
+#: leirirekkari/templates/medical/card/new.mak:95
+msgid "Age group "
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:117
+#: leirirekkari/templates/medical/card/new.mak:109
+#: leirirekkari/templates/medical/card/view.mak:87
+msgid "Additional"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:119
+#: leirirekkari/templates/medical/card/new.mak:111
+#: leirirekkari/templates/medical/card/view.mak:88
+msgid "Social security number"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:122
+#: leirirekkari/templates/medical/card/edit.mak:335
+#: leirirekkari/templates/medical/card/edit.mak:369
+#: leirirekkari/templates/medical/card/new.mak:114
+#: leirirekkari/templates/medical/card/new.mak:324
+#: leirirekkari/templates/medical/card/view.mak:91
+#: leirirekkari/templates/security/shifts/edit.mak:33
+#: leirirekkari/templates/security/shifts/new.mak:33
+#: leirirekkari/templates/security/shifts/view.mak:35
+msgid "Notes"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:128
+#: leirirekkari/templates/medical/card/new.mak:120
+#: leirirekkari/templates/medical/card/view.mak:98
+msgid "Insurance"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:130
+#: leirirekkari/templates/medical/card/edit.mak:133
+#: leirirekkari/templates/medical/card/new.mak:122
+#: leirirekkari/templates/medical/card/new.mak:125
+#: leirirekkari/templates/medical/card/view.mak:105
+msgid "Insurance, scouts"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:131
+#: leirirekkari/templates/medical/card/edit.mak:134
+#: leirirekkari/templates/medical/card/new.mak:123
+#: leirirekkari/templates/medical/card/new.mak:126
+#: leirirekkari/templates/medical/card/view.mak:100
+msgid "Insurance, other"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:139
+#: leirirekkari/templates/medical/card/new.mak:131
+#: leirirekkari/templates/medical/card/view.mak:101
+msgid "Insurance company"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:143
+#: leirirekkari/templates/medical/card/new.mak:135
+#: leirirekkari/templates/medical/card/view.mak:103
+msgid "Insurance number"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:155
+#: leirirekkari/templates/medical/card/new.mak:147
+#: leirirekkari/templates/medical/card/view.mak:114
+#: leirirekkari/templates/office/participant/edit.mak:441
+#: leirirekkari/templates/office/participant/new.mak:432
+#: leirirekkari/templates/office/participant/view.mak:252
+msgid "Medical info"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:158
+#: leirirekkari/templates/medical/card/new.mak:150
+#: leirirekkari/templates/medical/card/view.mak:117
+#: leirirekkari/templates/office/report.mak:461
+#: leirirekkari/templates/office/report.mak:994
+#: leirirekkari/templates/office/report_excel.mak:131
+#: leirirekkari/templates/office/report_excel.mak:622
+#: leirirekkari/templates/office/participant/edit.mak:444
+#: leirirekkari/templates/office/participant/new.mak:435
+#: leirirekkari/templates/office/participant/view.mak:255
+#: leirirekkari/views/office.py:1009 leirirekkari/views/office.py:1576
+msgid "Medical_diet"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:172
+#: leirirekkari/templates/medical/card/new.mak:164
+#: leirirekkari/templates/medical/card/view.mak:127
+#: leirirekkari/templates/office/report.mak:467
+#: leirirekkari/templates/office/report.mak:1007
+#: leirirekkari/templates/office/report_excel.mak:137
+#: leirirekkari/templates/office/report_excel.mak:633
+#: leirirekkari/templates/office/participant/edit.mak:458
+#: leirirekkari/templates/office/participant/new.mak:449
+#: leirirekkari/templates/office/participant/view.mak:265
+#: leirirekkari/views/office.py:1017 leirirekkari/views/office.py:1595
+msgid "Medical_food_allergy"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:187
+#: leirirekkari/templates/medical/card/new.mak:179
+#: leirirekkari/templates/medical/card/view.mak:136
+#: leirirekkari/templates/office/report.mak:468
+#: leirirekkari/templates/office/report_excel.mak:138
+#: leirirekkari/templates/office/participant/edit.mak:473
+#: leirirekkari/templates/office/participant/new.mak:464
+#: leirirekkari/templates/office/participant/view.mak:274
+#: leirirekkari/views/office.py:1019
+msgid "Medical_additional_food"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:193
+#: leirirekkari/templates/medical/card/new.mak:185
+#: leirirekkari/templates/medical/card/view.mak:142
+#: leirirekkari/templates/office/report.mak:480
+#: leirirekkari/templates/office/report_excel.mak:150
+#: leirirekkari/templates/office/participant/edit.mak:479
+#: leirirekkari/templates/office/participant/new.mak:470
+#: leirirekkari/templates/office/participant/view.mak:280
+#: leirirekkari/views/office.py:1035
+msgid "Medical_drugs_help"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:195
+#: leirirekkari/templates/medical/card/edit.mak:199
+#: leirirekkari/templates/medical/card/edit.mak:203
+#: leirirekkari/templates/medical/card/new.mak:187
+#: leirirekkari/templates/medical/card/new.mak:191
+#: leirirekkari/templates/medical/card/new.mak:195
+#: leirirekkari/templates/medical/card/view.mak:148
+#: leirirekkari/templates/office/report.mak:864
+#: leirirekkari/templates/office/report.mak:892
+#: leirirekkari/templates/office/report_excel.mak:510
+#: leirirekkari/templates/office/report_excel.mak:538
+#: leirirekkari/templates/office/participant/edit.mak:481
+#: leirirekkari/templates/office/participant/edit.mak:485
+#: leirirekkari/templates/office/participant/edit.mak:489
+#: leirirekkari/templates/office/participant/new.mak:472
+#: leirirekkari/templates/office/participant/new.mak:476
+#: leirirekkari/templates/office/participant/new.mak:480
+#: leirirekkari/templates/office/participant/view.mak:286
+#: leirirekkari/views/office.py:1362 leirirekkari/views/office.py:1381
+msgid "Dont need"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:196
+#: leirirekkari/templates/medical/card/edit.mak:200
+#: leirirekkari/templates/medical/card/edit.mak:204
+#: leirirekkari/templates/medical/card/new.mak:188
+#: leirirekkari/templates/medical/card/new.mak:192
+#: leirirekkari/templates/medical/card/new.mak:196
+#: leirirekkari/templates/medical/card/view.mak:144
+#: leirirekkari/templates/office/report.mak:860
+#: leirirekkari/templates/office/report.mak:888
+#: leirirekkari/templates/office/report_excel.mak:506
+#: leirirekkari/templates/office/report_excel.mak:534
+#: leirirekkari/templates/office/participant/edit.mak:482
+#: leirirekkari/templates/office/participant/edit.mak:486
+#: leirirekkari/templates/office/participant/edit.mak:490
+#: leirirekkari/templates/office/participant/new.mak:473
+#: leirirekkari/templates/office/participant/new.mak:477
+#: leirirekkari/templates/office/participant/new.mak:481
+#: leirirekkari/templates/office/participant/view.mak:282
+#: leirirekkari/views/office.py:1358 leirirekkari/views/office.py:1377
+msgid "Own leader or subunit first aid"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:197
+#: leirirekkari/templates/medical/card/edit.mak:201
+#: leirirekkari/templates/medical/card/edit.mak:205
+#: leirirekkari/templates/medical/card/new.mak:189
+#: leirirekkari/templates/medical/card/new.mak:193
+#: leirirekkari/templates/medical/card/new.mak:197
+#: leirirekkari/templates/medical/card/view.mak:146
+#: leirirekkari/templates/office/report.mak:862
+#: leirirekkari/templates/office/report.mak:890
+#: leirirekkari/templates/office/report_excel.mak:508
+#: leirirekkari/templates/office/report_excel.mak:536
+#: leirirekkari/templates/office/participant/edit.mak:483
+#: leirirekkari/templates/office/participant/edit.mak:487
+#: leirirekkari/templates/office/participant/edit.mak:491
+#: leirirekkari/templates/office/participant/new.mak:474
+#: leirirekkari/templates/office/participant/new.mak:478
+#: leirirekkari/templates/office/participant/new.mak:482
+#: leirirekkari/templates/office/participant/view.mak:284
+#: leirirekkari/views/office.py:1360 leirirekkari/views/office.py:1379
+msgid "Camphospital"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:209
+#: leirirekkari/templates/medical/card/new.mak:201
+#: leirirekkari/templates/medical/card/view.mak:151
+#: leirirekkari/templates/office/report.mak:481
+#: leirirekkari/templates/office/report_excel.mak:151
+#: leirirekkari/templates/office/participant/edit.mak:495
+#: leirirekkari/templates/office/participant/new.mak:486
+#: leirirekkari/templates/office/participant/view.mak:289
+#: leirirekkari/views/office.py:1037
+msgid "Medical_illnesses"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:212
+#: leirirekkari/templates/medical/card/new.mak:204
+#: leirirekkari/templates/medical/card/view.mak:154
+#: leirirekkari/templates/office/participant/edit.mak:498
+#: leirirekkari/templates/office/participant/new.mak:489
+#: leirirekkari/templates/office/participant/view.mak:292
+msgid "Medical_allergies"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:227
+#: leirirekkari/templates/medical/card/new.mak:219
+#: leirirekkari/templates/medical/card/view.mak:164
+#: leirirekkari/templates/office/report.mak:482
+#: leirirekkari/templates/office/report_excel.mak:152
+#: leirirekkari/templates/office/participant/edit.mak:513
+#: leirirekkari/templates/office/participant/new.mak:504
+#: leirirekkari/templates/office/participant/view.mak:302
+#: leirirekkari/views/office.py:1039
+msgid "Medical_additional_health"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:232
+#: leirirekkari/templates/medical/card/new.mak:224
+#: leirirekkari/templates/medical/card/view.mak:168
+#: leirirekkari/templates/office/report.mak:483
+#: leirirekkari/templates/office/report_excel.mak:153
+#: leirirekkari/templates/office/participant/edit.mak:518
+#: leirirekkari/templates/office/participant/new.mak:509
+#: leirirekkari/templates/office/participant/view.mak:306
+#: leirirekkari/views/office.py:1041
+msgid "Pregnancy weeks during camp"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:239
+#: leirirekkari/templates/medical/card/new.mak:231
+#: leirirekkari/templates/medical/card/view.mak:174
+msgid "Medications"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:241
+#: leirirekkari/templates/medical/card/new.mak:233
+#: leirirekkari/templates/medical/card/view.mak:175
+msgid "Medications given"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:244
+#: leirirekkari/templates/medical/card/edit.mak:247
+#: leirirekkari/templates/medical/card/new.mak:236
+#: leirirekkari/templates/medical/card/new.mak:239
+#: leirirekkari/templates/medical/card/view.mak:179
+#: leirirekkari/templates/office/report.mak:745
+#: leirirekkari/templates/office/report.mak:798
+#: leirirekkari/templates/office/report.mak:842
+#: leirirekkari/templates/office/report_excel.mak:398
+#: leirirekkari/templates/office/report_excel.mak:445
+#: leirirekkari/templates/office/report_excel.mak:488
+#: leirirekkari/templates/office/participant/view_payments.mak:107
+#: leirirekkari/templates/office/participant/view_payments.mak:116
+#: leirirekkari/templates/office/participant/view_payments.mak:177
+#: leirirekkari/templates/office/participant/view_payments.mak:184
+#: leirirekkari/templates/settings/imports/clubs.mak:48
+#: leirirekkari/templates/settings/imports/clubs.mak:50
+#: leirirekkari/templates/settings/imports/organization.mak:48
+#: leirirekkari/templates/settings/imports/organization.mak:50
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:48
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:50
+#: leirirekkari/templates/settings/imports/polkubookings.mak:48
+#: leirirekkari/templates/settings/imports/polkubookings.mak:50
+#: leirirekkari/templates/settings/imports/polkuit.mak:48
+#: leirirekkari/templates/settings/imports/polkuit.mak:50
+#: leirirekkari/templates/settings/imports/presence.mak:48
+#: leirirekkari/templates/settings/imports/presence.mak:50
+#: leirirekkari/templates/settings/imports/users.mak:48
+#: leirirekkari/templates/settings/imports/users.mak:50
+#: leirirekkari/templates/settings/users/index.mak:70
+#: leirirekkari/views/office.py:1277 leirirekkari/views/office.py:1315
+#: leirirekkari/views/office.py:1344
+msgid "No"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:245
+#: leirirekkari/templates/medical/card/edit.mak:248
+#: leirirekkari/templates/medical/card/new.mak:237
+#: leirirekkari/templates/medical/card/new.mak:240
+#: leirirekkari/templates/medical/card/view.mak:177
+#: leirirekkari/templates/office/report.mak:743
+#: leirirekkari/templates/office/report.mak:796
+#: leirirekkari/templates/office/report.mak:840
+#: leirirekkari/templates/office/report_excel.mak:396
+#: leirirekkari/templates/office/report_excel.mak:443
+#: leirirekkari/templates/office/report_excel.mak:486
+#: leirirekkari/templates/office/participant/view_payments.mak:101
+#: leirirekkari/templates/office/participant/view_payments.mak:113
+#: leirirekkari/templates/office/participant/view_payments.mak:178
+#: leirirekkari/templates/office/participant/view_payments.mak:185
+#: leirirekkari/templates/settings/imports/clubs.mak:43
+#: leirirekkari/templates/settings/imports/clubs.mak:45
+#: leirirekkari/templates/settings/imports/organization.mak:43
+#: leirirekkari/templates/settings/imports/organization.mak:45
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:43
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:45
+#: leirirekkari/templates/settings/imports/polkubookings.mak:43
+#: leirirekkari/templates/settings/imports/polkubookings.mak:45
+#: leirirekkari/templates/settings/imports/polkuit.mak:43
+#: leirirekkari/templates/settings/imports/polkuit.mak:45
+#: leirirekkari/templates/settings/imports/presence.mak:43
+#: leirirekkari/templates/settings/imports/presence.mak:45
+#: leirirekkari/templates/settings/imports/users.mak:43
+#: leirirekkari/templates/settings/imports/users.mak:45
+#: leirirekkari/templates/settings/users/index.mak:68
+#: leirirekkari/views/office.py:1275 leirirekkari/views/office.py:1313
+#: leirirekkari/views/office.py:1342
+msgid "Yes"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:253
+#: leirirekkari/templates/medical/card/new.mak:245
+#: leirirekkari/templates/medical/card/view.mak:184
+msgid "Medications info"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:258
+#: leirirekkari/templates/medical/card/new.mak:250
+#: leirirekkari/templates/medical/card/view.mak:189
+msgid "Treatment"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:275
+#: leirirekkari/templates/medical/card/new.mak:267
+#: leirirekkari/templates/medical/card/view.mak:194
+#: leirirekkari/templates/medical/settings/edit_reason.mak:23
+#: leirirekkari/templates/medical/settings/new_reason.mak:23
+msgid "Reason"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:290
+#: leirirekkari/templates/medical/card/new.mak:282
+#: leirirekkari/templates/medical/card/view.mak:197
+msgid "Diagnose"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:295
+#: leirirekkari/templates/medical/card/new.mak:287
+#: leirirekkari/templates/medical/card/view.mak:202
+msgid "Follow up"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:297
+#: leirirekkari/templates/medical/card/new.mak:289
+#: leirirekkari/templates/medical/card/view.mak:203
+msgid "Going to"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:301
+#: leirirekkari/templates/medical/card/new.mak:293
+#: leirirekkari/templates/medical/card/view.mak:205
+msgid "Follow up notes"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:306
+#: leirirekkari/templates/medical/card/new.mak:298
+#: leirirekkari/templates/medical/card/view.mak:209
+msgid "Events"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:313
+#: leirirekkari/templates/medical/card/edit.mak:352
+#: leirirekkari/templates/medical/card/new.mak:302
+#: leirirekkari/templates/medical/card/view.mak:214
+#: leirirekkari/templates/medical/card/view.mak:243
+#: leirirekkari/templates/medical/card/view.mak:271
+#: leirirekkari/templates/medical/card/view.mak:299
+msgid "Time"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:317
+#: leirirekkari/templates/medical/card/edit.mak:356
+#: leirirekkari/templates/medical/card/new.mak:306
+#: leirirekkari/templates/medical/card/view.mak:217
+#: leirirekkari/templates/medical/card/view.mak:246
+#: leirirekkari/templates/medical/card/view.mak:274
+#: leirirekkari/templates/medical/card/view.mak:302
+msgid "Writer"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:324
+#: leirirekkari/templates/medical/card/edit.mak:327
+#: leirirekkari/templates/medical/card/edit.mak:362
+#: leirirekkari/templates/medical/card/new.mak:313
+#: leirirekkari/templates/medical/card/new.mak:316
+#: leirirekkari/templates/medical/card/view.mak:224
+msgid "Nurse"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:325
+#: leirirekkari/templates/medical/card/edit.mak:328
+#: leirirekkari/templates/medical/card/edit.mak:363
+#: leirirekkari/templates/medical/card/new.mak:314
+#: leirirekkari/templates/medical/card/new.mak:317
+#: leirirekkari/templates/medical/card/view.mak:222
+msgid "Doctor"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:340
+#: leirirekkari/templates/medical/card/edit.mak:374
+msgid "Remove event"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:381
+msgid "Add event"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:384
+#: leirirekkari/templates/medical/settings/edit_methodofarrival.mak:34
+#: leirirekkari/templates/medical/settings/edit_reason.mak:34
+#: leirirekkari/templates/medical/settings/edit_treatmenttype.mak:34
+#: leirirekkari/templates/office/report.mak:1142
+#: leirirekkari/templates/office/participant/edit.mak:526
+#: leirirekkari/templates/office/participant/view_payments.mak:190
+#: leirirekkari/templates/security/shifts/edit.mak:38
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:71
+#: leirirekkari/templates/settings/edit.mak:44
+#: leirirekkari/templates/settings/groups/edit.mak:36
+#: leirirekkari/templates/settings/me/edit.mak:73
+#: leirirekkari/templates/settings/organization/edit_club.mak:51
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:35
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:47
+#: leirirekkari/templates/settings/organization/edit_village.mak:47
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:59
+#: leirirekkari/templates/settings/users/edit.mak:105
+msgid "Save"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/edit.mak:385
+#: leirirekkari/templates/medical/card/new.mak:332
+#: leirirekkari/templates/medical/settings/edit_methodofarrival.mak:35
+#: leirirekkari/templates/medical/settings/edit_reason.mak:35
+#: leirirekkari/templates/medical/settings/edit_treatmenttype.mak:35
+#: leirirekkari/templates/medical/settings/new_methodofarrival.mak:35
+#: leirirekkari/templates/medical/settings/new_reason.mak:35
+#: leirirekkari/templates/medical/settings/new_treatmenttype.mak:35
+#: leirirekkari/templates/office/report.mak:381
+#: leirirekkari/templates/office/participant/edit.mak:527
+#: leirirekkari/templates/office/participant/new.mak:518
+#: leirirekkari/templates/office/participant/view_payments.mak:191
+#: leirirekkari/templates/security/shifts/edit.mak:39
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:72
+#: leirirekkari/templates/security/shifts/new.mak:39
+#: leirirekkari/templates/settings/edit.mak:45
+#: leirirekkari/templates/settings/new.mak:35
+#: leirirekkari/templates/settings/groups/edit.mak:37
+#: leirirekkari/templates/settings/groups/new.mak:39
+#: leirirekkari/templates/settings/imports/clubs.mak:72
+#: leirirekkari/templates/settings/imports/organization.mak:72
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:72
+#: leirirekkari/templates/settings/imports/polkubookings.mak:72
+#: leirirekkari/templates/settings/imports/polkuit.mak:72
+#: leirirekkari/templates/settings/imports/presence.mak:72
+#: leirirekkari/templates/settings/imports/users.mak:72
+#: leirirekkari/templates/settings/me/edit.mak:74
+#: leirirekkari/templates/settings/organization/edit_club.mak:52
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:36
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:48
+#: leirirekkari/templates/settings/organization/edit_village.mak:48
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:60
+#: leirirekkari/templates/settings/organization/new_club.mak:48
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:36
+#: leirirekkari/templates/settings/organization/new_subunit.mak:44
+#: leirirekkari/templates/settings/organization/new_village.mak:44
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:60
+#: leirirekkari/templates/settings/users/edit.mak:106
+#: leirirekkari/templates/settings/users/new.mak:108
+msgid "Reset"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/new.mak:18
+msgid "Create new card"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/view.mak:36
+#: leirirekkari/templates/office/participant/edit.mak:28
+#: leirirekkari/templates/office/participant/new.mak:28
+#: leirirekkari/templates/office/participant/view.mak:30
+#: leirirekkari/templates/office/participant/view_payments.mak:27
+#: leirirekkari/templates/security/participant/view.mak:27
+#: leirirekkari/templates/security/shifts/edit.mak:23
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:23
+#: leirirekkari/templates/security/shifts/new.mak:23
+#: leirirekkari/templates/security/shifts/view.mak:28
+#: leirirekkari/templates/settings/groups/edit.mak:23
+#: leirirekkari/templates/settings/groups/new.mak:23
+#: leirirekkari/templates/settings/me/edit.mak:23
+#: leirirekkari/templates/settings/users/edit.mak:23
+#: leirirekkari/templates/settings/users/new.mak:23
+msgid "Basic info"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/view.mak:73
+#: leirirekkari/templates/office/report.mak:656
+#: leirirekkari/templates/office/report.mak:1166
+#: leirirekkari/templates/office/report_excel.mak:316
+#: leirirekkari/templates/office/participant/search.mak:60
+#: leirirekkari/templates/office/presences/clubs.mak:98
+#: leirirekkari/templates/office/presences/index.mak:95
+#: leirirekkari/templates/office/presences/index.mak:134
+#: leirirekkari/templates/office/presences/index.mak:179
+#: leirirekkari/templates/office/presences/index.mak:226
+#: leirirekkari/templates/office/presences/index.mak:276
+#: leirirekkari/templates/security/participant/search.mak:80
+#: leirirekkari/views/office.py:1199 leirirekkari/views/office.py:1499
+msgid "age_group_"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/view.mak:230
+#: leirirekkari/templates/medical/card/view.mak:254
+#: leirirekkari/templates/medical/card/view.mak:282
+#: leirirekkari/templates/medical/card/view.mak:310
+msgid "Info"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/view.mak:239
+#: leirirekkari/templates/medical/card/view.mak:267
+#: leirirekkari/templates/medical/card/view.mak:295
+msgid "Event"
+msgstr ""
+
+#: leirirekkari/templates/medical/card/view.mak:329
+#: leirirekkari/views/medical.py:367
+msgid "Edit card"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/edit_methodofarrival.mak:16
+#: leirirekkari/views/medical.py:582
+msgid "Edit methodofarrival"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/edit_methodofarrival.mak:23
+#: leirirekkari/templates/medical/settings/new_methodofarrival.mak:23
+msgid "Methodofarrival"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/edit_methodofarrival.mak:29
+#: leirirekkari/templates/medical/settings/edit_reason.mak:29
+#: leirirekkari/templates/medical/settings/edit_treatmenttype.mak:29
+#: leirirekkari/templates/medical/settings/new_methodofarrival.mak:29
+#: leirirekkari/templates/medical/settings/new_reason.mak:29
+#: leirirekkari/templates/medical/settings/new_treatmenttype.mak:29
+#: leirirekkari/templates/office/report.mak:1135
+#: leirirekkari/templates/office/participant/edit.mak:338
+#: leirirekkari/templates/office/participant/edit.mak:370
+#: leirirekkari/templates/office/participant/new.mak:331
+#: leirirekkari/templates/office/participant/new.mak:363
+#: leirirekkari/templates/office/participant/new.mak:391
+#: leirirekkari/templates/office/participant/view.mak:124
+#: leirirekkari/templates/office/participant/view.mak:146
+#: leirirekkari/templates/security/participant/view.mak:106
+#: leirirekkari/templates/security/participant/view.mak:128
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:53
+#: leirirekkari/templates/security/shifts/view.mak:59
+#: leirirekkari/templates/security/shifts/view.mak:111
+msgid "Description"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/edit_reason.mak:16
+#: leirirekkari/views/medical.py:470
+msgid "Edit reason"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/edit_treatmenttype.mak:16
+#: leirirekkari/views/medical.py:526
+msgid "Edit treatmenttype"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/edit_treatmenttype.mak:23
+#: leirirekkari/templates/medical/settings/new_treatmenttype.mak:23
+msgid "Treatmenttype"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:29
+#: leirirekkari/templates/medical/settings/index.mak:51
+#: leirirekkari/templates/medical/settings/index.mak:73
+#: leirirekkari/templates/office/presences.mak:41
+#: leirirekkari/templates/office/presences.mak:110
+#: leirirekkari/templates/security/shifts/index.mak:31
+#: leirirekkari/templates/settings/list.mak:26
+#: leirirekkari/templates/settings/groups/index.mak:27
+#: leirirekkari/templates/settings/organization/index.mak:36
+#: leirirekkari/templates/settings/organization/index.mak:105
+#: leirirekkari/templates/settings/organization/index.mak:127
+#: leirirekkari/templates/settings/users/index.mak:30
+msgid "Tools"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:36
+#: leirirekkari/templates/medical/settings/index.mak:58
+#: leirirekkari/templates/medical/settings/index.mak:80
+#: leirirekkari/templates/office/presences.mak:49
+#: leirirekkari/templates/office/presences.mak:60
+#: leirirekkari/templates/office/presences.mak:72
+#: leirirekkari/templates/office/presences.mak:88
+#: leirirekkari/templates/office/presences.mak:118
+#: leirirekkari/templates/office/participant/view_payments.mak:121
+#: leirirekkari/templates/security/shifts/index.mak:41
+#: leirirekkari/templates/security/shifts/view.mak:106
+#: leirirekkari/templates/security/shifts/view.mak:133
+#: leirirekkari/templates/settings/list.mak:52
+#: leirirekkari/templates/settings/groups/index.mak:56
+#: leirirekkari/templates/settings/groups/view.mak:59
+#: leirirekkari/templates/settings/me/index.mak:84
+#: leirirekkari/templates/settings/organization/index.mak:44
+#: leirirekkari/templates/settings/organization/index.mak:55
+#: leirirekkari/templates/settings/organization/index.mak:67
+#: leirirekkari/templates/settings/organization/index.mak:83
+#: leirirekkari/templates/settings/organization/index.mak:113
+#: leirirekkari/templates/settings/organization/index.mak:148
+#: leirirekkari/templates/settings/users/index.mak:73
+#: leirirekkari/templates/settings/users/view.mak:124
+#: leirirekkari/views/office.py:556 leirirekkari/views/security.py:155
+#: leirirekkari/views/settings.py:148 leirirekkari/views/settings_user.py:389
+#: leirirekkari/views/settings_user.py:646 leirirekkari/views/settings_user.py:799
+msgid "Edit"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:42
+#: leirirekkari/templates/medical/settings/index.mak:86
+msgid "No reasons defined, please create"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:45
+msgid "Treatmenttypes"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:64
+msgid "No treatmenttypes defined, please create"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:67
+msgid "Methodsofarrival"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:92
+msgid "Create reason"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:93
+msgid "Create treatmenttype"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/index.mak:94
+msgid "Create methodofarrival"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/new_methodofarrival.mak:16
+msgid "Create new methodofarrival"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/new_reason.mak:16
+msgid "Create new reason"
+msgstr ""
+
+#: leirirekkari/templates/medical/settings/new_treatmenttype.mak:16
+msgid "Create new treatmenttype"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:36
+msgid "You can search by name, membershipnumber or some other info"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:40
+msgid "Reports"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:47
+#: leirirekkari/templates/office/report.mak:94
+msgid "New report"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:49
+#: leirirekkari/templates/office/report.mak:96
+#: leirirekkari/templates/office/report.mak:431
+#: leirirekkari/templates/office/report_excel.mak:101
+#: leirirekkari/templates/office/participant/edit.mak:54
+#: leirirekkari/templates/office/participant/new.mak:54
+#: leirirekkari/templates/office/participant/search.mak:46
+#: leirirekkari/templates/office/participant/view.mak:48
+#: leirirekkari/templates/security/participant/search.mak:46
+#: leirirekkari/templates/security/participant/view.mak:44
+#: leirirekkari/views/office.py:969
+msgid "Agegroup"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:51
+#: leirirekkari/templates/office/report.mak:99
+#: leirirekkari/templates/office/report.mak:101
+msgid "Childs"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:52
+#: leirirekkari/templates/office/report.mak:104
+#: leirirekkari/templates/office/report.mak:106
+msgid "Cubs"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:53
+#: leirirekkari/templates/office/report.mak:109
+#: leirirekkari/templates/office/report.mak:111
+msgid "Adventurers"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:54
+#: leirirekkari/templates/office/report.mak:124
+#: leirirekkari/templates/office/report.mak:126
+#: leirirekkari/templates/office/participant/new.mak:73
+#: leirirekkari/templates/office/participant/new.mak:75
+msgid "Trackers"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:55
+#: leirirekkari/templates/office/report.mak:114
+#: leirirekkari/templates/office/report.mak:116
+msgid "Exlorers"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:56
+#: leirirekkari/templates/office/report.mak:119
+#: leirirekkari/templates/office/report.mak:121
+msgid "Rovers"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:57
+#: leirirekkari/templates/office/report.mak:129
+#: leirirekkari/templates/office/report.mak:131
+msgid "Adults"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:61
+#: leirirekkari/templates/office/report.mak:136
+#: leirirekkari/templates/office/report.mak:428
+#: leirirekkari/templates/office/report.mak:1171
+#: leirirekkari/templates/office/report_excel.mak:98
+#: leirirekkari/templates/office/participant/edit.mak:99
+#: leirirekkari/templates/office/participant/new.mak:99
+#: leirirekkari/templates/office/participant/view.mak:77
+#: leirirekkari/templates/security/participant/view.mak:66
+#: leirirekkari/views/office.py:965 leirirekkari/views/office.py:1508
+msgid "Sex"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:63
+#: leirirekkari/templates/office/report.mak:139
+#: leirirekkari/templates/office/report.mak:141
+#: leirirekkari/templates/office/report.mak:647
+#: leirirekkari/templates/office/report_excel.mak:307
+#: leirirekkari/templates/office/participant/edit.mak:103
+#: leirirekkari/templates/office/participant/edit.mak:105
+#: leirirekkari/templates/office/participant/new.mak:103
+#: leirirekkari/templates/office/participant/new.mak:105
+#: leirirekkari/templates/office/participant/view.mak:79
+#: leirirekkari/templates/security/participant/view.mak:68
+#: leirirekkari/views/office.py:1190
+msgid "Men"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:63
+#: leirirekkari/templates/office/report.mak:139
+#: leirirekkari/templates/office/report.mak:141
+msgid "Boy"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:64
+#: leirirekkari/templates/office/report.mak:144
+#: leirirekkari/templates/office/report.mak:146
+#: leirirekkari/templates/office/report.mak:649
+#: leirirekkari/templates/office/report_excel.mak:309
+#: leirirekkari/templates/office/participant/edit.mak:108
+#: leirirekkari/templates/office/participant/edit.mak:110
+#: leirirekkari/templates/office/participant/new.mak:108
+#: leirirekkari/templates/office/participant/new.mak:110
+#: leirirekkari/templates/office/participant/view.mak:81
+#: leirirekkari/templates/security/participant/view.mak:70
+#: leirirekkari/views/office.py:1192
+msgid "Female"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:64
+#: leirirekkari/templates/office/report.mak:144
+#: leirirekkari/templates/office/report.mak:146
+msgid "Girl"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:68
+#: leirirekkari/templates/office/report.mak:151
+#: leirirekkari/templates/office/participant/edit.mak:115
+#: leirirekkari/templates/office/participant/new.mak:115
+#: leirirekkari/templates/office/participant/view.mak:86
+msgid "Spiritual programme"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:70
+#: leirirekkari/templates/office/report.mak:154
+#: leirirekkari/templates/office/report.mak:156
+#: leirirekkari/templates/office/report.mak:694
+#: leirirekkari/templates/office/report_excel.mak:354
+#: leirirekkari/templates/office/participant/edit.mak:119
+#: leirirekkari/templates/office/participant/edit.mak:121
+#: leirirekkari/templates/office/participant/new.mak:119
+#: leirirekkari/templates/office/participant/new.mak:121
+#: leirirekkari/templates/office/participant/view.mak:88
+#: leirirekkari/views/office.py:1241
+msgid "The ecumenical church service"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:71
+#: leirirekkari/templates/office/report.mak:159
+#: leirirekkari/templates/office/report.mak:161
+#: leirirekkari/templates/office/report.mak:696
+#: leirirekkari/templates/office/report_excel.mak:356
+#: leirirekkari/templates/office/participant/edit.mak:124
+#: leirirekkari/templates/office/participant/edit.mak:126
+#: leirirekkari/templates/office/participant/new.mak:124
+#: leirirekkari/templates/office/participant/new.mak:126
+#: leirirekkari/templates/office/participant/view.mak:90
+#: leirirekkari/views/office.py:1243
+msgid "Life stance programme"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:78
+#: leirirekkari/templates/office/report.mak:171
+#: leirirekkari/templates/office/report.mak:173
+#: leirirekkari/templates/office/report.mak:609
+#: leirirekkari/templates/office/report.mak:632
+#: leirirekkari/templates/office/report.mak:1125
+#: leirirekkari/templates/office/report.mak:1127
+#: leirirekkari/templates/office/report_excel.mak:269
+#: leirirekkari/templates/office/report_excel.mak:292
+#: leirirekkari/templates/office/participant/view.mak:117
+#: leirirekkari/templates/office/participant/view.mak:137
+#: leirirekkari/templates/office/participant/view.mak:139
+#: leirirekkari/templates/security/participant/search.mak:77
+#: leirirekkari/templates/security/participant/view.mak:99
+#: leirirekkari/templates/security/participant/view.mak:119
+#: leirirekkari/templates/security/participant/view.mak:121
+#: leirirekkari/views/office.py:1165 leirirekkari/views/office.py:1178
+msgid "Participant status: "
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:83
+#: leirirekkari/templates/office/report.mak:179
+msgid "Show canceled"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:85
+#: leirirekkari/templates/office/report.mak:182
+#: leirirekkari/templates/office/report.mak:186
+#: leirirekkari/templates/office/report.mak:190
+msgid "Show canceled: No"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:86
+#: leirirekkari/templates/office/report.mak:183
+#: leirirekkari/templates/office/report.mak:187
+#: leirirekkari/templates/office/report.mak:191
+msgid "Show canceled: Only"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:87
+#: leirirekkari/templates/office/report.mak:184
+#: leirirekkari/templates/office/report.mak:188
+#: leirirekkari/templates/office/report.mak:192
+msgid "Show canceled: Both"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:134
+#: leirirekkari/templates/office/report.mak:272
+msgid "Presence date and time"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:140
+#: leirirekkari/templates/office/report.mak:282
+#: leirirekkari/templates/office/report.mak:434
+#: leirirekkari/templates/office/report_excel.mak:104
+#: leirirekkari/templates/office/participant/edit.mak:44
+#: leirirekkari/templates/office/participant/new.mak:44
+#: leirirekkari/templates/office/participant/view.mak:42
+#: leirirekkari/templates/security/participant/view.mak:39
+#: leirirekkari/views/office.py:973
+msgid "Birthdate"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:148
+#: leirirekkari/templates/office/report.mak:334
+msgid "Add search parameter"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:152
+#: leirirekkari/templates/office/report.mak:296
+#: leirirekkari/templates/office/report.mak:338
+msgid "Search field"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:156
+#: leirirekkari/templates/office/report.mak:301
+#: leirirekkari/templates/office/report.mak:303
+#: leirirekkari/templates/office/report.mak:342
+msgid "Additional search field: "
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:161
+#: leirirekkari/templates/office/report.mak:309
+#: leirirekkari/templates/office/report.mak:347
+msgid "Search type"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:165
+#: leirirekkari/templates/office/report.mak:314
+#: leirirekkari/templates/office/report.mak:316
+#: leirirekkari/templates/office/report.mak:351
+msgid "Additional search type: "
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:170
+#: leirirekkari/templates/office/report.mak:322
+#: leirirekkari/templates/office/report.mak:356
+msgid "Search value"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:174
+#: leirirekkari/templates/office/report.mak:326
+#: leirirekkari/templates/office/report.mak:360
+#: leirirekkari/templates/office/participant/edit.mak:204
+#: leirirekkari/templates/office/participant/edit.mak:225
+#: leirirekkari/templates/office/participant/edit.mak:287
+#: leirirekkari/templates/office/participant/edit.mak:302
+#: leirirekkari/templates/office/participant/edit.mak:330
+#: leirirekkari/templates/office/participant/edit.mak:362
+#: leirirekkari/templates/office/participant/edit.mak:403
+#: leirirekkari/templates/office/participant/edit.mak:417
+#: leirirekkari/templates/office/participant/new.mak:201
+#: leirirekkari/templates/office/participant/new.mak:221
+#: leirirekkari/templates/office/participant/new.mak:282
+#: leirirekkari/templates/office/participant/new.mak:296
+#: leirirekkari/templates/office/participant/new.mak:323
+#: leirirekkari/templates/office/participant/new.mak:355
+#: leirirekkari/templates/office/participant/new.mak:395
+#: leirirekkari/templates/office/participant/new.mak:408
+msgid "Remove line"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:181
+#: leirirekkari/templates/office/report.mak:367
+msgid "What to view"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:185
+#: leirirekkari/templates/office/index.mak:187
+#: leirirekkari/templates/office/report.mak:371
+#: leirirekkari/templates/office/report.mak:373
+msgid "To_view_"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:193
+#: leirirekkari/templates/office/report.mak:380
+msgid "Create report"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:193
+#: leirirekkari/templates/office/report.mak:86
+msgid "Open in excel"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:202
+#: leirirekkari/templates/office/participant/new.mak:526
+#: leirirekkari/templates/office/participant/search.mak:81
+#: leirirekkari/templates/security/participant/search.mak:101
+#: leirirekkari/templates/security/participant/view.mak:197
+#: leirirekkari/views/office.py:309
+msgid "Create participant"
+msgstr ""
+
+#: leirirekkari/templates/office/index.mak:203
+#: leirirekkari/templates/office/report.mak:455
+#: leirirekkari/templates/office/report_excel.mak:125
+#: leirirekkari/templates/office/participant/edit.mak:312
+#: leirirekkari/templates/office/participant/new.mak:306
+#: leirirekkari/templates/office/participant/search.mak:51
+#: leirirekkari/templates/office/participant/view.mak:230
+#: leirirekkari/templates/security/participant/search.mak:51
+#: leirirekkari/templates/security/participant/view.mak:171
+#: leirirekkari/views/office.py:1001 leirirekkari/views/office.py:2013
+#: leirirekkari/views/office.py:2061
+msgid "Presences"
+msgstr ""
+
+#: leirirekkari/templates/office/presences.mak:30
+msgid "Presences by unit"
+msgstr ""
+
+#: leirirekkari/templates/office/presences.mak:40
+#: leirirekkari/templates/office/presences.mak:109
+#: leirirekkari/templates/security/shifts/index.mak:30
+#: leirirekkari/templates/settings/groups/index.mak:26
+#: leirirekkari/templates/settings/organization/index.mak:35
+#: leirirekkari/templates/settings/organization/index.mak:104
+msgid "Leader"
+msgstr ""
+
+#: leirirekkari/templates/office/presences.mak:99
+#: leirirekkari/templates/settings/organization/index.mak:94
+msgid "Unassigned clubs"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:74
+msgid "Show / hide text search"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:88
+#: leirirekkari/templates/office/participant/search.mak:25
+#: leirirekkari/templates/security/participant/search.mak:26
+msgid "Show / hide search values"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:197
+msgid "Show only open payments"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:200
+#: leirirekkari/templates/office/report.mak:203
+msgid "Show only open payments: No"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:201
+#: leirirekkari/templates/office/report.mak:204
+msgid "Show only open payments: Only"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:389
+#: leirirekkari/templates/office/report_excel.mak:59
+#: leirirekkari/views/office.py:909
+msgid "Is canceled"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:392
+#: leirirekkari/templates/office/report_excel.mak:62
+#: leirirekkari/views/office.py:913
+msgid "Polku booking no"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:395
+#: leirirekkari/templates/office/report_excel.mak:65
+#: leirirekkari/views/office.py:917
+msgid "Polku member id"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:398
+#: leirirekkari/templates/office/report_excel.mak:68
+#: leirirekkari/templates/office/participant/search.mak:43
+#: leirirekkari/templates/settings/users/index.mak:25
+#: leirirekkari/views/office.py:921
+msgid "Firstname"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:399
+#: leirirekkari/templates/office/report_excel.mak:69
+#: leirirekkari/templates/office/participant/search.mak:44
+#: leirirekkari/templates/settings/users/index.mak:26
+#: leirirekkari/views/office.py:923
+msgid "Lastname"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:400
+#: leirirekkari/templates/office/report_excel.mak:70
+#: leirirekkari/templates/office/participant/edit.mak:40
+#: leirirekkari/templates/office/participant/new.mak:40
+#: leirirekkari/templates/office/participant/search.mak:45
+#: leirirekkari/templates/office/participant/view.mak:39
+#: leirirekkari/templates/office/participant/view_payments.mak:36
+#: leirirekkari/templates/security/participant/view.mak:36
+#: leirirekkari/views/office.py:925
+msgid "Nickname"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:403
+#: leirirekkari/templates/office/report_excel.mak:73
+#: leirirekkari/templates/office/participant/edit.mak:48
+#: leirirekkari/templates/office/participant/new.mak:48
+#: leirirekkari/templates/office/participant/view.mak:45
+#: leirirekkari/templates/security/participant/view.mak:42
+#: leirirekkari/templates/settings/me/edit.mak:37
+#: leirirekkari/templates/settings/me/index.mak:30
+#: leirirekkari/templates/settings/users/edit.mak:37
+#: leirirekkari/templates/settings/users/new.mak:37
+#: leirirekkari/templates/settings/users/view.mak:35
+#: leirirekkari/views/office.py:929
+msgid "Designation"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:406
+#: leirirekkari/templates/office/report_excel.mak:76
+#: leirirekkari/views/office.py:933
+msgid "Street"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:407
+#: leirirekkari/templates/office/report_excel.mak:77
+#: leirirekkari/views/office.py:935
+msgid "Postalcode"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:408
+#: leirirekkari/templates/office/report_excel.mak:78
+#: leirirekkari/templates/office/participant/edit.mak:172
+#: leirirekkari/templates/office/participant/new.mak:172
+#: leirirekkari/templates/office/participant/view.mak:163
+#: leirirekkari/templates/office/participant/view_payments.mak:57
+#: leirirekkari/templates/security/participant/view.mak:145
+#: leirirekkari/views/office.py:937
+msgid "City"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:411
+#: leirirekkari/templates/office/report_excel.mak:81
+#: leirirekkari/templates/office/participant/edit.mak:245
+#: leirirekkari/templates/office/participant/edit.mak:262
+#: leirirekkari/templates/office/participant/new.mak:241
+#: leirirekkari/templates/office/participant/new.mak:258
+#: leirirekkari/templates/office/participant/view.mak:196
+#: leirirekkari/templates/office/participant/view.mak:207
+#: leirirekkari/views/office.py:941
+msgid "Phone"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:412
+#: leirirekkari/templates/office/report_excel.mak:82
+#: leirirekkari/templates/office/participant/edit.mak:185
+#: leirirekkari/templates/office/participant/edit.mak:249
+#: leirirekkari/templates/office/participant/edit.mak:266
+#: leirirekkari/templates/office/participant/new.mak:185
+#: leirirekkari/templates/office/participant/new.mak:245
+#: leirirekkari/templates/office/participant/new.mak:262
+#: leirirekkari/templates/office/participant/view.mak:171
+#: leirirekkari/templates/office/participant/view.mak:199
+#: leirirekkari/templates/office/participant/view.mak:210
+#: leirirekkari/templates/security/participant/view.mak:153
+#: leirirekkari/templates/settings/me/edit.mak:33
+#: leirirekkari/templates/settings/me/index.mak:27
+#: leirirekkari/templates/settings/users/edit.mak:33
+#: leirirekkari/templates/settings/users/edit.mak:92
+#: leirirekkari/templates/settings/users/index.mak:27
+#: leirirekkari/templates/settings/users/new.mak:33
+#: leirirekkari/templates/settings/users/new.mak:94
+#: leirirekkari/templates/settings/users/view.mak:32
+#: leirirekkari/views/office.py:943
+msgid "Email"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:415
+#: leirirekkari/templates/office/report_excel.mak:85
+#: leirirekkari/views/office.py:947
+msgid "Languages"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:424
+#: leirirekkari/templates/office/report.mak:1132
+#: leirirekkari/templates/office/report_excel.mak:94
+#: leirirekkari/templates/office/participant/view.mak:120
+#: leirirekkari/templates/office/participant/view.mak:143
+#: leirirekkari/templates/security/participant/view.mak:102
+#: leirirekkari/templates/security/participant/view.mak:125
+#: leirirekkari/views/office.py:959
+msgid "Expected next change"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:425
+#: leirirekkari/templates/office/report_excel.mak:95
+#: leirirekkari/views/office.py:961
+msgid "Status description"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:437
+#: leirirekkari/templates/office/report_excel.mak:107
+#: leirirekkari/views/office.py:977
+msgid "Age"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:458
+#: leirirekkari/templates/office/report.mak:1180
+#: leirirekkari/templates/office/report_excel.mak:128
+#: leirirekkari/views/office.py:1005 leirirekkari/views/office.py:1523
+msgid "Spiritual"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:464
+#: leirirekkari/templates/office/report_excel.mak:134
+#: leirirekkari/views/office.py:1013
+msgid "Medical_diet_boolean"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:471
+#: leirirekkari/templates/office/report_excel.mak:141
+#: leirirekkari/views/office.py:1023
+msgid "Medical_food_allergy_boolean"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:474
+#: leirirekkari/templates/office/report.mak:1020
+#: leirirekkari/templates/office/report_excel.mak:144
+#: leirirekkari/templates/office/report_excel.mak:644
+#: leirirekkari/views/office.py:1027 leirirekkari/views/office.py:1614
+msgid "Allergies"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:477
+#: leirirekkari/templates/office/report_excel.mak:147
+#: leirirekkari/views/office.py:1031
+msgid "Allergies_boolean"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:486
+#: leirirekkari/templates/office/report_excel.mak:156
+#: leirirekkari/views/office.py:1045
+msgid "Medical_drugs_help_boolean"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:489
+#: leirirekkari/templates/office/report_excel.mak:159
+#: leirirekkari/templates/office/participant/edit.mak:239
+#: leirirekkari/templates/office/participant/new.mak:235
+#: leirirekkari/views/office.py:1049
+msgid "Next of kin, primary"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:490
+#: leirirekkari/templates/office/report_excel.mak:160
+#: leirirekkari/views/office.py:1051
+msgid "Next of kin, primary phone"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:491
+#: leirirekkari/templates/office/report_excel.mak:161
+#: leirirekkari/templates/office/participant/edit.mak:256
+#: leirirekkari/templates/office/participant/new.mak:252
+#: leirirekkari/views/office.py:1053
+msgid "Next of kin, secondary"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:492
+#: leirirekkari/templates/office/report_excel.mak:162
+#: leirirekkari/views/office.py:1055
+msgid "Next of kin, secondary phone"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:495
+#: leirirekkari/templates/office/report_excel.mak:165
+#: leirirekkari/views/office.py:1059
+msgid "Wishes activity 1"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:496
+#: leirirekkari/templates/office/report_excel.mak:166
+#: leirirekkari/views/office.py:1061
+msgid "Wishes activity 2"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:497
+#: leirirekkari/templates/office/report_excel.mak:167
+#: leirirekkari/views/office.py:1063
+msgid "Wishes activity 3"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:498
+#: leirirekkari/templates/office/report_excel.mak:168
+#: leirirekkari/templates/office/participant/view.mak:365
+#: leirirekkari/views/office.py:1065
+msgid "Preliminary signups"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:501
+msgid "Payments total"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:502
+msgid "Paid total"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:503
+msgid "To pay yet"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:506
+#: leirirekkari/templates/office/report_excel.mak:171
+#: leirirekkari/views/office.py:1069
+msgid "Job at camp"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:507
+#: leirirekkari/templates/office/report_excel.mak:172
+#: leirirekkari/views/office.py:1071
+msgid "Enlisted by"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:508
+#: leirirekkari/templates/office/report_excel.mak:173
+#: leirirekkari/views/office.py:1073
+msgid "Enlister works as"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:509
+#: leirirekkari/templates/office/report_excel.mak:174
+#: leirirekkari/views/office.py:1075
+msgid "Enlistment table a"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:510
+#: leirirekkari/templates/office/report_excel.mak:175
+#: leirirekkari/views/office.py:1077
+msgid "Enlistment table b1"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:511
+#: leirirekkari/templates/office/report_excel.mak:176
+#: leirirekkari/views/office.py:1079
+msgid "Enlistment table b2"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:512
+#: leirirekkari/templates/office/report_excel.mak:177
+#: leirirekkari/views/office.py:1081
+msgid "Enlistment table b3"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:531
+#: leirirekkari/templates/office/report_excel.mak:195
+#: leirirekkari/views/office.py:1100
+msgid "Canceled"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:651
+#: leirirekkari/templates/office/report_excel.mak:311
+#: leirirekkari/templates/office/participant/view.mak:64
+#: leirirekkari/templates/office/participant/view.mak:83
+#: leirirekkari/templates/office/participant/view.mak:111
+#: leirirekkari/templates/security/participant/view.mak:60
+#: leirirekkari/templates/security/participant/view.mak:72
+#: leirirekkari/templates/security/participant/view.mak:93
+#: leirirekkari/views/office.py:1194
+msgid "Unknown"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:985
+msgid "Show medical stats"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:989
+#: leirirekkari/templates/office/report.mak:1042
+#: leirirekkari/templates/office/report.mak:1154
+msgid "Hide stats"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1038
+msgid "Show kitchen table"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1066 leirirekkari/views/office.py:1685
+msgid "Diets"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1084 leirirekkari/views/office.py:1711
+msgid "Food allergies"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1112
+msgid "Action"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1115
+msgid "Update status"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1120
+msgid "New status"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1150
+msgid "Show stats"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1158 leirirekkari/views/office.py:1485
+#: leirirekkari/views/office.py:1664
+msgid "Total"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1162 leirirekkari/views/office.py:1493
+msgid "Age groups"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1175 leirirekkari/views/office.py:1514
+msgid "sex_"
+msgstr ""
+
+#: leirirekkari/templates/office/report.mak:1184 leirirekkari/views/office.py:1529
+msgid "spiritual_"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:21
+#: leirirekkari/templates/office/participant/view.mak:436
+#: leirirekkari/templates/office/participant/view_payments.mak:202
+#: leirirekkari/templates/security/participant/view.mak:198
+msgid "Edit participant"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:32
+#: leirirekkari/templates/office/participant/new.mak:32
+#: leirirekkari/templates/office/participant/view.mak:33
+#: leirirekkari/templates/office/participant/view_payments.mak:30
+#: leirirekkari/templates/security/participant/view.mak:30
+#: leirirekkari/templates/settings/me/edit.mak:25
+#: leirirekkari/templates/settings/me/index.mak:21
+#: leirirekkari/templates/settings/users/edit.mak:25
+#: leirirekkari/templates/settings/users/new.mak:25
+#: leirirekkari/templates/settings/users/view.mak:26
+msgid "First name"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:36
+#: leirirekkari/templates/office/participant/new.mak:36
+#: leirirekkari/templates/office/participant/view.mak:36
+#: leirirekkari/templates/office/participant/view_payments.mak:33
+#: leirirekkari/templates/security/participant/view.mak:33
+#: leirirekkari/templates/settings/me/edit.mak:29
+#: leirirekkari/templates/settings/me/index.mak:24
+#: leirirekkari/templates/settings/users/edit.mak:29
+#: leirirekkari/templates/settings/users/new.mak:29
+#: leirirekkari/templates/settings/users/view.mak:29
+msgid "Last name"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:58
+#: leirirekkari/templates/office/participant/edit.mak:60
+#: leirirekkari/templates/office/participant/new.mak:58
+#: leirirekkari/templates/office/participant/new.mak:60
+#: leirirekkari/templates/office/participant/view.mak:50
+#: leirirekkari/templates/security/participant/view.mak:46
+msgid "Child"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:63
+#: leirirekkari/templates/office/participant/edit.mak:65
+#: leirirekkari/templates/office/participant/new.mak:63
+#: leirirekkari/templates/office/participant/new.mak:65
+#: leirirekkari/templates/office/participant/view.mak:52
+#: leirirekkari/templates/security/participant/view.mak:48
+msgid "Cub"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:68
+#: leirirekkari/templates/office/participant/edit.mak:70
+#: leirirekkari/templates/office/participant/new.mak:68
+#: leirirekkari/templates/office/participant/new.mak:70
+#: leirirekkari/templates/office/participant/view.mak:54
+#: leirirekkari/templates/security/participant/view.mak:50
+msgid "Adventurer"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:73
+#: leirirekkari/templates/office/participant/edit.mak:75
+msgid "Tracker"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:78
+#: leirirekkari/templates/office/participant/edit.mak:80
+#: leirirekkari/templates/office/participant/new.mak:78
+#: leirirekkari/templates/office/participant/new.mak:80
+#: leirirekkari/templates/office/participant/view.mak:56
+#: leirirekkari/templates/office/participant/view.mak:58
+#: leirirekkari/templates/security/participant/view.mak:52
+#: leirirekkari/templates/security/participant/view.mak:54
+msgid "Exlorer"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:83
+#: leirirekkari/templates/office/participant/edit.mak:85
+#: leirirekkari/templates/office/participant/new.mak:83
+#: leirirekkari/templates/office/participant/new.mak:85
+#: leirirekkari/templates/office/participant/view.mak:60
+#: leirirekkari/templates/security/participant/view.mak:56
+msgid "Rover"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:88
+#: leirirekkari/templates/office/participant/edit.mak:90
+#: leirirekkari/templates/office/participant/new.mak:88
+#: leirirekkari/templates/office/participant/new.mak:90
+#: leirirekkari/templates/office/participant/view.mak:62
+#: leirirekkari/templates/security/participant/view.mak:58
+msgid "Adult"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:95
+#: leirirekkari/templates/office/participant/new.mak:95
+#: leirirekkari/templates/office/participant/view.mak:67
+#: leirirekkari/templates/office/participant/view_payments.mak:39
+#: leirirekkari/templates/security/participant/view.mak:63
+msgid "Member number"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:162
+#: leirirekkari/templates/office/participant/new.mak:162
+#: leirirekkari/templates/office/participant/view.mak:158
+#: leirirekkari/templates/office/participant/view_payments.mak:52
+#: leirirekkari/templates/security/participant/view.mak:140
+msgid "Address"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:164
+#: leirirekkari/templates/office/participant/new.mak:164
+#: leirirekkari/templates/office/participant/view.mak:159
+#: leirirekkari/templates/office/participant/view_payments.mak:53
+#: leirirekkari/templates/security/participant/view.mak:141
+msgid "Street address"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:168
+#: leirirekkari/templates/office/participant/new.mak:168
+#: leirirekkari/templates/office/participant/view.mak:161
+#: leirirekkari/templates/office/participant/view_payments.mak:55
+#: leirirekkari/templates/security/participant/view.mak:143
+msgid "Postal code"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:176
+#: leirirekkari/templates/office/participant/new.mak:176
+#: leirirekkari/templates/office/participant/view.mak:165
+#: leirirekkari/templates/office/participant/view_payments.mak:59
+#: leirirekkari/templates/security/participant/view.mak:147
+msgid "Country"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:183
+#: leirirekkari/templates/office/participant/new.mak:183
+msgid "Phone and email"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:196
+#: leirirekkari/templates/office/participant/edit.mak:217
+#: leirirekkari/templates/office/participant/new.mak:193
+#: leirirekkari/templates/office/participant/new.mak:213
+msgid "Number"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:200
+#: leirirekkari/templates/office/participant/edit.mak:221
+#: leirirekkari/templates/office/participant/new.mak:197
+#: leirirekkari/templates/office/participant/new.mak:217
+msgid "Phone type"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:232
+#: leirirekkari/templates/office/participant/new.mak:228
+msgid "Add phone"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:275
+#: leirirekkari/templates/office/participant/new.mak:271
+#: leirirekkari/templates/office/participant/view.mak:218
+msgid "Language skills"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:283
+#: leirirekkari/templates/office/participant/edit.mak:298
+#: leirirekkari/templates/office/participant/new.mak:278
+#: leirirekkari/templates/office/participant/new.mak:292
+#: leirirekkari/templates/settings/me/edit.mak:41
+#: leirirekkari/templates/settings/me/index.mak:33
+#: leirirekkari/templates/settings/users/edit.mak:41
+#: leirirekkari/templates/settings/users/new.mak:41
+#: leirirekkari/templates/settings/users/view.mak:38
+msgid "Language"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:307
+#: leirirekkari/templates/office/participant/new.mak:301
+msgid "Add language"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:318
+#: leirirekkari/templates/office/participant/edit.mak:350
+#: leirirekkari/templates/office/participant/new.mak:312
+#: leirirekkari/templates/office/participant/new.mak:343
+msgid "Presence"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:322
+#: leirirekkari/templates/office/participant/edit.mak:354
+#: leirirekkari/templates/office/participant/new.mak:315
+#: leirirekkari/templates/office/participant/new.mak:347
+#: leirirekkari/templates/security/shifts/edit.mak:25
+#: leirirekkari/templates/security/shifts/index.mak:28
+#: leirirekkari/templates/security/shifts/new.mak:25
+#: leirirekkari/templates/security/shifts/view.mak:29
+msgid "Starts"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:326
+#: leirirekkari/templates/office/participant/edit.mak:358
+#: leirirekkari/templates/office/participant/new.mak:319
+#: leirirekkari/templates/office/participant/new.mak:351
+#: leirirekkari/templates/security/shifts/edit.mak:29
+#: leirirekkari/templates/security/shifts/index.mak:29
+#: leirirekkari/templates/security/shifts/new.mak:29
+#: leirirekkari/templates/security/shifts/view.mak:32
+msgid "Ends"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:378
+#: leirirekkari/templates/office/participant/new.mak:371
+msgid "Add presence"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:385
+#: leirirekkari/templates/office/participant/new.mak:378
+#: leirirekkari/templates/office/participant/view.mak:314
+#: leirirekkari/templates/office/participant/view.mak:344
+msgid "Metadatas"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:392
+#: leirirekkari/templates/office/participant/new.mak:384
+msgid "Metadata item"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:395
+#: leirirekkari/templates/office/participant/edit.mak:420
+#: leirirekkari/templates/office/participant/new.mak:411
+#: leirirekkari/templates/settings/edit.mak:30
+#: leirirekkari/templates/settings/edit.mak:34
+#: leirirekkari/templates/settings/list.mak:24
+#: leirirekkari/templates/settings/new.mak:25
+msgid "Key"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:399
+#: leirirekkari/templates/office/participant/edit.mak:424
+#: leirirekkari/templates/office/participant/new.mak:415
+#: leirirekkari/templates/office/participant/view.mak:320
+#: leirirekkari/templates/settings/edit.mak:39
+#: leirirekkari/templates/settings/list.mak:25
+#: leirirekkari/templates/settings/new.mak:29
+msgid "Value"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:415
+#: leirirekkari/templates/office/participant/new.mak:406
+msgid "Metadata"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/edit.mak:432
+#: leirirekkari/templates/office/participant/new.mak:423
+msgid "Add metadata"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/new.mak:21
+msgid "Create new participant"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:23
+msgid "Booking canceled!"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:25
+#: leirirekkari/templates/office/participant/view_payments.mak:22
+#: leirirekkari/templates/security/participant/view.mak:22
+#: leirirekkari/views/office.py:555 leirirekkari/views/office.py:605
+#: leirirekkari/views/office.py:654 leirirekkari/views/security.py:335
+msgid "Participant"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:70
+#: leirirekkari/templates/office/participant/view_payments.mak:42
+msgid "Booking no"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:111
+#: leirirekkari/templates/office/participant/view.mak:117
+#: leirirekkari/templates/security/participant/view.mak:93
+#: leirirekkari/templates/security/participant/view.mak:99
+msgid "Current status"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:132
+#: leirirekkari/templates/security/participant/view.mak:114
+msgid "Set new status"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:150
+#: leirirekkari/templates/security/participant/view.mak:132
+msgid "Change status"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:170
+#: leirirekkari/templates/security/participant/view.mak:152
+msgid "Contact info"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:176
+#: leirirekkari/templates/security/participant/view.mak:157
+msgid "Phones"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:190
+msgid "Next of kin"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:192
+msgid "Primary"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:203
+msgid "Secondary"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:226
+msgid "No language skills"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:246
+#: leirirekkari/templates/security/participant/view.mak:187
+msgid "No presences"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:337
+msgid "No metadatas"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:347
+#: leirirekkari/templates/office/participant/view.mak:349
+msgid "Wishes, activity 1"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:353
+#: leirirekkari/templates/office/participant/view.mak:355
+msgid "Wishes, activity 2"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:359
+#: leirirekkari/templates/office/participant/view.mak:361
+msgid "Wishes, activity 3"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:373
+msgid "No wishes"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:386
+msgid "Polku booking"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:405
+msgid "Polku answers"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:421
+msgid "Polku contact"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:437
+msgid "View participant payments"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:440
+msgid "Participant canceled booking"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view.mak:442
+msgid "Uncancel booking"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:22
+#: leirirekkari/views/office.py:655
+msgid "Payments"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:77
+#: leirirekkari/templates/office/participant/view_payments.mak:167
+msgid "Euros"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:78
+#: leirirekkari/templates/office/participant/view_payments.mak:171
+msgid "Note"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:79
+#: leirirekkari/templates/office/participant/view_payments.mak:175
+msgid "Paid"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:80
+#: leirirekkari/templates/office/participant/view_payments.mak:182
+msgid "Send invoice"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:128
+msgid "Total sum:"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:130
+msgid "Total paid:"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:138
+msgid "Still to pay:"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:149
+msgid "No payment data"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:159
+#: leirirekkari/templates/office/participant/view_payments.mak:161
+msgid "New payment"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:160
+msgid "Edit payment"
+msgstr ""
+
+#: leirirekkari/templates/office/participant/view_payments.mak:201
+msgid "View participant"
+msgstr ""
+
+#: leirirekkari/templates/office/presences/clubs.mak:52
+#: leirirekkari/templates/office/presences/clubs.mak:126
+#: leirirekkari/templates/office/presences/index.mak:309
+msgid "Clubs"
+msgstr ""
+
+#: leirirekkari/templates/office/presences/clubs.mak:125
+#: leirirekkari/templates/office/presences/index.mak:308
+msgid "All"
+msgstr ""
+
+#: leirirekkari/templates/office/presences/index.mak:75
+msgid "TOTAL:"
+msgstr ""
+
+#: leirirekkari/templates/security/index.mak:25 leirirekkari/views/security.py:82
+#: leirirekkari/views/security.py:115 leirirekkari/views/security.py:153
+#: leirirekkari/views/security.py:200 leirirekkari/views/security.py:239
+msgid "Shifts"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit.mak:16
+msgid "Edit shift"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:16
+#: leirirekkari/templates/security/shifts/new.mak:16
+msgid "Create new shift"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:25
+#: leirirekkari/templates/security/shifts/view.mak:43
+msgid "Log item type"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:28
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:30
+#: leirirekkari/templates/security/shifts/view.mak:45
+#: leirirekkari/templates/security/shifts/view.mak:89
+msgid "Event type Help"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:33
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:35
+#: leirirekkari/templates/security/shifts/view.mak:46
+#: leirirekkari/templates/security/shifts/view.mak:91
+msgid "Event type Security"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:38
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:40
+#: leirirekkari/templates/security/shifts/view.mak:47
+#: leirirekkari/templates/security/shifts/view.mak:93
+msgid "Event type Alarm"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:45
+#: leirirekkari/templates/security/shifts/view.mak:51
+msgid "Notified by"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:49
+#: leirirekkari/templates/security/shifts/view.mak:55
+msgid "Task"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:57
+#: leirirekkari/templates/security/shifts/view.mak:63
+#: leirirekkari/templates/security/shifts/view.mak:115
+msgid "People present"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:61
+#: leirirekkari/templates/security/shifts/view.mak:67
+msgid "Started"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/edit_logitem.mak:65
+#: leirirekkari/templates/security/shifts/view.mak:71
+msgid "Ended"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/index.mak:19
+msgid "Security shifts"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/index.mak:27
+#: leirirekkari/templates/security/shifts/index.mak:37
+#: leirirekkari/views/security.py:154 leirirekkari/views/security.py:201
+#: leirirekkari/views/settings_user.py:90 leirirekkari/views/settings_user.py:533
+msgid "View"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/view.mak:10
+msgid "Are you sure that you want to delete this logitem?"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/view.mak:21
+msgid "View shift"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/view.mak:40
+msgid "New log item"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/view.mak:81
+msgid "Log items"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/view.mak:107
+#: leirirekkari/templates/settings/groups/view.mak:60
+#: leirirekkari/templates/settings/users/view.mak:131
+msgid "Delete"
+msgstr ""
+
+#: leirirekkari/templates/security/shifts/view.mak:124
+msgid "No items"
+msgstr ""
+
+#: leirirekkari/templates/settings/edit.mak:17
+#: leirirekkari/templates/settings/edit.mak:19
+msgid "Edit setting"
+msgstr ""
+
+#: leirirekkari/templates/settings/edit.mak:19
+#: leirirekkari/templates/settings/edit.mak:31
+msgid "setting: setting_key"
+msgstr ""
+
+#: leirirekkari/templates/settings/edit.mak:28
+#: leirirekkari/templates/settings/new.mak:23
+msgid "Setting"
+msgstr ""
+
+#: leirirekkari/templates/settings/edit.mak:31
+msgid "Use"
+msgstr ""
+
+#: leirirekkari/templates/settings/index.mak:23
+msgid "My own"
+msgstr ""
+
+#: leirirekkari/templates/settings/index.mak:25
+#: leirirekkari/templates/settings/users/index.mak:16
+#: leirirekkari/views/settings_user.py:50 leirirekkari/views/settings_user.py:89
+#: leirirekkari/views/settings_user.py:221 leirirekkari/views/settings_user.py:388
+msgid "Users"
+msgstr ""
+
+#: leirirekkari/templates/settings/index.mak:28
+#: leirirekkari/templates/settings/groups/index.mak:16
+#: leirirekkari/templates/settings/me/index.mak:48
+#: leirirekkari/templates/settings/users/edit.mak:79
+#: leirirekkari/templates/settings/users/new.mak:78
+#: leirirekkari/templates/settings/users/view.mak:53
+#: leirirekkari/views/settings_user.py:506 leirirekkari/views/settings_user.py:532
+#: leirirekkari/views/settings_user.py:581 leirirekkari/views/settings_user.py:645
+msgid "Groups"
+msgstr ""
+
+#: leirirekkari/templates/settings/index.mak:37
+#: leirirekkari/templates/settings/imports/clubs.mak:71
+#: leirirekkari/templates/settings/imports/organization.mak:71
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:71
+#: leirirekkari/templates/settings/imports/polkubookings.mak:71
+#: leirirekkari/templates/settings/imports/polkuit.mak:71
+#: leirirekkari/templates/settings/imports/presence.mak:71
+#: leirirekkari/templates/settings/imports/users.mak:71
+msgid "Import"
+msgstr ""
+
+#: leirirekkari/templates/settings/new.mak:16
+msgid "Create new setting"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/edit.mak:16
+msgid "Edit group"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/edit.mak:30
+#: leirirekkari/templates/settings/groups/new.mak:31
+#: leirirekkari/templates/settings/groups/view.mak:33
+#: leirirekkari/templates/settings/me/index.mak:64
+msgid "Privileges"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/new.mak:16
+msgid "Create new group"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/view.mak:10
+msgid "Are you sure that you want to delete this group?"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/view.mak:21
+msgid "Group"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/view.mak:47
+msgid "All privileges"
+msgstr ""
+
+#: leirirekkari/templates/settings/groups/view.mak:49
+msgid "No privileges"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:16
+#: leirirekkari/templates/settings/imports/index.mak:23
+#: leirirekkari/views/settings_import.py:214
+msgid "Import clubs"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:25
+#: leirirekkari/templates/settings/imports/organization.mak:25
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:25
+#: leirirekkari/templates/settings/imports/polkubookings.mak:25
+#: leirirekkari/templates/settings/imports/polkuit.mak:25
+#: leirirekkari/templates/settings/imports/presence.mak:25
+#: leirirekkari/templates/settings/imports/users.mak:25
+msgid "Delimeter"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:40
+#: leirirekkari/templates/settings/imports/organization.mak:40
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:40
+#: leirirekkari/templates/settings/imports/polkubookings.mak:40
+#: leirirekkari/templates/settings/imports/polkuit.mak:40
+#: leirirekkari/templates/settings/imports/presence.mak:40
+#: leirirekkari/templates/settings/imports/users.mak:40
+msgid "Headers"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:55
+#: leirirekkari/templates/settings/imports/organization.mak:55
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:55
+#: leirirekkari/templates/settings/imports/polkubookings.mak:55
+#: leirirekkari/templates/settings/imports/polkuit.mak:55
+#: leirirekkari/templates/settings/imports/presence.mak:55
+#: leirirekkari/templates/settings/imports/users.mak:55
+msgid "Delay between import runs"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:59
+#: leirirekkari/templates/settings/imports/organization.mak:59
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:59
+#: leirirekkari/templates/settings/imports/polkubookings.mak:59
+#: leirirekkari/templates/settings/imports/polkuit.mak:59
+#: leirirekkari/templates/settings/imports/presence.mak:59
+#: leirirekkari/templates/settings/imports/users.mak:59
+msgid "Rows per run"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:64
+#: leirirekkari/templates/settings/imports/organization.mak:64
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:64
+#: leirirekkari/templates/settings/imports/polkubookings.mak:64
+#: leirirekkari/templates/settings/imports/polkuit.mak:64
+#: leirirekkari/templates/settings/imports/presence.mak:64
+#: leirirekkari/templates/settings/imports/users.mak:64
+msgid "File"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/clubs.mak:66
+#: leirirekkari/templates/settings/imports/organization.mak:66
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:66
+#: leirirekkari/templates/settings/imports/polkubookings.mak:66
+#: leirirekkari/templates/settings/imports/polkuit.mak:66
+#: leirirekkari/templates/settings/imports/presence.mak:66
+#: leirirekkari/templates/settings/imports/users.mak:66
+msgid "CSV-file"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:17
+#: leirirekkari/views/settings_import.py:92
+#: leirirekkari/views/settings_import.py:188
+#: leirirekkari/views/settings_import.py:213
+#: leirirekkari/views/settings_import.py:265
+#: leirirekkari/views/settings_import.py:348
+#: leirirekkari/views/settings_import.py:519
+#: leirirekkari/views/settings_import.py:1177
+#: leirirekkari/views/settings_import.py:1315
+#: leirirekkari/views/settings_import.py:1386
+#: leirirekkari/views/settings_import.py:1520
+msgid "Imports"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:24
+#: leirirekkari/templates/settings/imports/organization.mak:16
+#: leirirekkari/views/settings_import.py:266
+msgid "Import organization"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:25
+#: leirirekkari/templates/settings/imports/polkubookings.mak:16
+#: leirirekkari/views/settings_import.py:349
+msgid "Import polku bookings"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:26
+#: leirirekkari/templates/settings/imports/polkuanswers.mak:16
+#: leirirekkari/views/settings_import.py:520
+msgid "Import polku answers"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:27
+msgid "Import polku contact"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:28
+#: leirirekkari/templates/settings/imports/presence.mak:16
+#: leirirekkari/views/settings_import.py:1387
+msgid "Import presences"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/index.mak:29
+#: leirirekkari/templates/settings/imports/users.mak:16
+#: leirirekkari/views/settings_import.py:1521
+msgid "Import users"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/polkuit.mak:16
+msgid "Import polku contact info"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/run.mak:27
+#: leirirekkari/views/settings_import.py:189
+msgid "Running importer"
+msgstr ""
+
+#: leirirekkari/templates/settings/imports/run.mak:33
+msgid "Importer allready run. Imported ${itemcount} items."
+msgstr ""
+
+#: leirirekkari/templates/settings/me/edit.mak:16
+#: leirirekkari/templates/settings/users/edit.mak:16
+msgid "Edit user"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/edit.mak:44
+#: leirirekkari/templates/settings/me/edit.mak:46
+#: leirirekkari/templates/settings/me/index.mak:35
+#: leirirekkari/templates/settings/users/edit.mak:44
+#: leirirekkari/templates/settings/users/edit.mak:46
+#: leirirekkari/templates/settings/users/new.mak:44
+#: leirirekkari/templates/settings/users/new.mak:46
+#: leirirekkari/templates/settings/users/view.mak:40
+msgid "Finnish"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/edit.mak:49
+#: leirirekkari/templates/settings/me/edit.mak:51
+#: leirirekkari/templates/settings/me/index.mak:37
+#: leirirekkari/templates/settings/users/edit.mak:49
+#: leirirekkari/templates/settings/users/edit.mak:51
+#: leirirekkari/templates/settings/users/new.mak:49
+#: leirirekkari/templates/settings/users/new.mak:51
+#: leirirekkari/templates/settings/users/view.mak:42
+msgid "Finland Swedish"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/edit.mak:54
+#: leirirekkari/templates/settings/me/edit.mak:56
+#: leirirekkari/templates/settings/me/index.mak:39
+#: leirirekkari/templates/settings/users/edit.mak:54
+#: leirirekkari/templates/settings/users/edit.mak:56
+#: leirirekkari/templates/settings/users/new.mak:54
+#: leirirekkari/templates/settings/users/new.mak:56
+#: leirirekkari/templates/settings/users/view.mak:44
+msgid "English"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/edit.mak:62
+msgid "Change password"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/edit.mak:68
+#: leirirekkari/templates/settings/users/edit.mak:73
+#: leirirekkari/templates/settings/users/new.mak:72
+msgid "Password confirmation"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/index.mak:16
+#: leirirekkari/templates/settings/users/view.mak:21
+msgid "User"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/index.mak:41
+#: leirirekkari/templates/settings/users/view.mak:46
+msgid "Not set"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/index.mak:44
+#: leirirekkari/templates/settings/users/edit.mak:65
+#: leirirekkari/templates/settings/users/index.mak:24
+#: leirirekkari/templates/settings/users/new.mak:64
+#: leirirekkari/templates/settings/users/view.mak:49
+msgid "Username"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/index.mak:56
+#: leirirekkari/templates/settings/users/view.mak:61
+msgid "No groups"
+msgstr ""
+
+#: leirirekkari/templates/settings/me/index.mak:77
+#: leirirekkari/templates/settings/users/view.mak:82
+msgid "No specific privileges"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:16
+#: leirirekkari/views/settings_organization.py:465
+msgid "Edit club"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:29
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:29
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:29
+#: leirirekkari/templates/settings/organization/edit_village.mak:29
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:29
+#: leirirekkari/templates/settings/organization/new_club.mak:29
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:29
+#: leirirekkari/templates/settings/organization/new_subunit.mak:29
+#: leirirekkari/templates/settings/organization/new_village.mak:29
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:29
+msgid "Short name"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:33
+#: leirirekkari/templates/settings/organization/new_club.mak:33
+msgid "Club code"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:37
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:23
+#: leirirekkari/templates/settings/organization/new_club.mak:37
+msgid "Sub unit"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:59
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:43
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:55
+#: leirirekkari/templates/settings/organization/edit_village.mak:55
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:67
+#: leirirekkari/templates/settings/organization/index.mak:161
+#: leirirekkari/templates/settings/organization/new_club.mak:55
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:43
+#: leirirekkari/templates/settings/organization/new_subunit.mak:51
+#: leirirekkari/templates/settings/organization/new_village.mak:51
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:67
+msgid "Create subcamp"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:60
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:44
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:56
+#: leirirekkari/templates/settings/organization/edit_village.mak:56
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:68
+#: leirirekkari/templates/settings/organization/index.mak:162
+#: leirirekkari/templates/settings/organization/new_club.mak:56
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:44
+#: leirirekkari/templates/settings/organization/new_subunit.mak:52
+#: leirirekkari/templates/settings/organization/new_village.mak:52
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:68
+msgid "Create village"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:61
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:45
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:57
+#: leirirekkari/templates/settings/organization/edit_village.mak:57
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:69
+#: leirirekkari/templates/settings/organization/index.mak:163
+#: leirirekkari/templates/settings/organization/new_club.mak:57
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:45
+#: leirirekkari/templates/settings/organization/new_subunit.mak:53
+#: leirirekkari/templates/settings/organization/new_village.mak:53
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:69
+msgid "Create village kitchen"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:62
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:46
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:58
+#: leirirekkari/templates/settings/organization/edit_village.mak:58
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:70
+#: leirirekkari/templates/settings/organization/index.mak:164
+#: leirirekkari/templates/settings/organization/new_club.mak:58
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:46
+#: leirirekkari/templates/settings/organization/new_subunit.mak:54
+#: leirirekkari/templates/settings/organization/new_village.mak:54
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:70
+msgid "Create subunit"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_club.mak:63
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:47
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:59
+#: leirirekkari/templates/settings/organization/edit_village.mak:59
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:71
+#: leirirekkari/templates/settings/organization/index.mak:165
+#: leirirekkari/templates/settings/organization/new_club.mak:59
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:47
+#: leirirekkari/templates/settings/organization/new_subunit.mak:55
+#: leirirekkari/templates/settings/organization/new_village.mak:55
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:71
+msgid "Create club"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_subcamp.mak:16
+#: leirirekkari/views/settings_organization.py:139
+msgid "Edit subcamp"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_subunit.mak:16
+#: leirirekkari/views/settings_organization.py:353
+msgid "Edit subunit"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_village.mak:16
+#: leirirekkari/views/settings_organization.py:247
+msgid "Edit village"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/edit_village_kitchen.mak:16
+msgid "Edit village kitchen"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/new_club.mak:16
+#: leirirekkari/views/settings_organization.py:403
+msgid "New club"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/new_subcamp.mak:16
+#: leirirekkari/views/settings_organization.py:87
+msgid "New subcamp"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/new_subunit.mak:16
+#: leirirekkari/views/settings_organization.py:295
+msgid "New subunit"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/new_village.mak:16
+#: leirirekkari/views/settings_organization.py:187
+msgid "New village"
+msgstr ""
+
+#: leirirekkari/templates/settings/organization/new_village_kitchen.mak:16
+msgid "New village kitchen"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/edit.mak:63
+#: leirirekkari/templates/settings/users/new.mak:62
+msgid "Login info"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/edit.mak:85
+#: leirirekkari/templates/settings/users/new.mak:86
+#: leirirekkari/templates/settings/users/view.mak:69
+msgid "Personal privileges"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/edit.mak:94
+#: leirirekkari/templates/settings/users/new.mak:96
+msgid "Send login and password by email to given email address?"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/edit.mak:99
+#: leirirekkari/templates/settings/users/new.mak:101
+msgid "Require password change"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/edit.mak:101
+msgid "Require user to change password on next login?"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/index.mak:28
+msgid "Last login"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/index.mak:29
+msgid "Active"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/new.mak:16
+msgid "Create new user"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/new.mak:103
+msgid "Require user to change password on first login?"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:10
+msgid "Are you sure that you want to delete this person?"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:86
+msgid "Login data"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:95
+msgid "Logout"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:96
+msgid "Ip"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:97
+msgid "User agent"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:116
+msgid "No logins"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:127
+msgid "Deactivate"
+msgstr ""
+
+#: leirirekkari/templates/settings/users/view.mak:129
+msgid "Activate"
+msgstr ""
+
+#: leirirekkari/views/login.py:49
+msgid "You have been logged out."
+msgstr ""
+
+#: leirirekkari/views/login.py:73
+msgid "Welcome, ${username}! You are logged in."
+msgstr ""
+
+#: leirirekkari/views/login.py:82
+msgid "Login failed."
+msgstr ""
+
+#: leirirekkari/views/login.py:85
+msgid "Login failed. Please provide username and password."
+msgstr ""
+
+#: leirirekkari/views/medical.py:244
+msgid "New card"
+msgstr ""
+
+#: leirirekkari/views/medical.py:433
+msgid "Reason created."
+msgstr ""
+
+#: leirirekkari/views/medical.py:436 leirirekkari/views/medical.py:465
+#: leirirekkari/views/medical.py:492 leirirekkari/views/medical.py:521
+#: leirirekkari/views/medical.py:548 leirirekkari/views/medical.py:577
+msgid "Please provide title."
+msgstr ""
+
+#: leirirekkari/views/medical.py:441
+msgid "New reason"
+msgstr ""
+
+#: leirirekkari/views/medical.py:462
+msgid "Reason saved."
+msgstr ""
+
+#: leirirekkari/views/medical.py:489
+msgid "Treatmenttype created."
+msgstr ""
+
+#: leirirekkari/views/medical.py:497
+msgid "New treatmenttype"
+msgstr ""
+
+#: leirirekkari/views/medical.py:518
+msgid "Treatmenttype saved."
+msgstr ""
+
+#: leirirekkari/views/medical.py:545
+msgid "MethodOfArrival created."
+msgstr ""
+
+#: leirirekkari/views/medical.py:553
+msgid "New methodofarrival"
+msgstr ""
+
+#: leirirekkari/views/medical.py:574
+msgid "MethodOfArrival saved."
+msgstr ""
+
+#: leirirekkari/views/misc.py:88 leirirekkari/views/office.py:707
+#: leirirekkari/views/security.py:285
+msgid "Empty search, please provide search string."
+msgstr ""
+
+#: leirirekkari/views/office.py:300
+msgid "Participant created."
+msgstr ""
+
+#: leirirekkari/views/office.py:303
+msgid "Missing firstname and / or lastname."
+msgstr ""
+
+#: leirirekkari/views/office.py:516 leirirekkari/views/office.py:526
+msgid "Wrong time format in presences."
+msgstr ""
+
+#: leirirekkari/views/office.py:549
+msgid "Participant saved."
+msgstr ""
+
+#: leirirekkari/views/office.py:572
+msgid "Participant with id ${id} not found."
+msgstr ""
+
+#: leirirekkari/views/office.py:591 leirirekkari/views/security.py:323
+msgid "Added new status for participant."
+msgstr ""
+
+#: leirirekkari/views/office.py:637
+msgid "Error converting euros-field, please check values."
+msgstr ""
+
+#: leirirekkari/views/office.py:646
+msgid "Added new payment for participant."
+msgstr ""
+
+#: leirirekkari/views/office.py:648
+msgid "Update payment for participant."
+msgstr ""
+
+#: leirirekkari/views/office.py:671
+msgid "Canceled participant booking."
+msgstr ""
+
+#: leirirekkari/views/office.py:688
+msgid "Uncanceled participant booking."
+msgstr ""
+
+#: leirirekkari/views/office.py:752
+msgid "Added new status for participant ${name}."
+msgstr ""
+
+#: leirirekkari/views/office.py:764
+msgid "Report"
+msgstr ""
+
+#: leirirekkari/views/office.py:873
+msgid "Papa name"
+msgstr ""
+
+#: leirirekkari/views/office.py:888
+msgid "Leirirekkari raportti"
+msgstr ""
+
+#: leirirekkari/views/office.py:1466
+msgid "Leirirekkari raportti, tilastot"
+msgstr ""
+
+#: leirirekkari/views/office.py:1551
+msgid "Leirirekkari raportti, allergiatilastot"
+msgstr ""
+
+#: leirirekkari/views/office.py:1643
+msgid "Leirirekkari raportti, allergiat ja ruokavaliot"
+msgstr ""
+
+#: leirirekkari/views/security.py:109
+msgid "Shift created."
+msgstr ""
+
+#: leirirekkari/views/security.py:112
+msgid "Error creating shift. Shift ends before it begins."
+msgstr ""
+
+#: leirirekkari/views/security.py:147
+msgid "Shift saved."
+msgstr ""
+
+#: leirirekkari/views/security.py:150
+msgid "Error saving shift. Shift ends before it begins."
+msgstr ""
+
+#: leirirekkari/views/security.py:195
+msgid "Log item created."
+msgstr ""
+
+#: leirirekkari/views/security.py:234
+msgid "Log item saved."
+msgstr ""
+
+#: leirirekkari/views/security.py:240
+msgid "Shift"
+msgstr ""
+
+#: leirirekkari/views/security.py:241
+msgid "Edit logitem"
+msgstr ""
+
+#: leirirekkari/views/security.py:267
+msgid "Log item deleted."
+msgstr ""
+
+#: leirirekkari/views/security.py:270
+msgid "Error finding logitem to delete."
+msgstr ""
+
+#: leirirekkari/views/settings.py:49 leirirekkari/views/settings.py:88
+#: leirirekkari/views/settings.py:147
+msgid "List"
+msgstr ""
+
+#: leirirekkari/views/settings.py:81
+msgid "Setting created."
+msgstr ""
+
+#: leirirekkari/views/settings.py:84 leirirekkari/views/settings.py:142
+msgid "Setting with same key exists allready."
+msgstr ""
+
+#: leirirekkari/views/settings.py:86 leirirekkari/views/settings.py:144
+msgid "Please provide key."
+msgstr ""
+
+#: leirirekkari/views/settings.py:89 leirirekkari/views/settings_user.py:222
+#: leirirekkari/views/settings_user.py:582
+msgid "New"
+msgstr ""
+
+#: leirirekkari/views/settings.py:139
+msgid "Setting saved."
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:160
+msgid "Imported clubs: ${clubcount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:161
+msgid "Clubs to import: ${clubcount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:163
+msgid "Imported bookings: ${bookingscount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:164
+msgid "Bookings to import: ${bookingscount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:166
+msgid "Imported answer: ${answerscount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:167
+msgid "Answers to import: ${answerscount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:169
+msgid "Imported payment: ${answerscount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:170
+msgid "Payments to import: ${answerscount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:172
+msgid "Imported contactinfos: ${infocount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:173
+msgid "Concact infos to import: ${infocount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:175
+msgid "Imported presences: ${presencecount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:176
+msgid "Presence rows to import: ${presencecount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:178
+msgid "Imported subunits: ${subunitcount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:179
+msgid "Subunit rows to import: ${subunitcount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:181
+msgid "Imported users: ${usercount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:182
+msgid "User rows to import: ${usercount}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:223
+msgid "Club with name ${clubname} allready exists"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:239
+msgid "Imported club ${clubname}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:319
+msgid "Imported subunit ${subunitname}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:359
+msgid "Booking with code ${bookingcode} allready exists, updating"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:491
+msgid "Imported booking ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:529
+#: leirirekkari/views/settings_import.py:1187
+msgid "Booking with code ${bookingcode} not found, skipping."
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:592
+msgid "Skipping"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:607
+#: leirirekkari/views/settings_import.py:1245
+msgid "Added payment to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:644
+#: leirirekkari/views/settings_import.py:653
+msgid "Added language to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:675
+#: leirirekkari/views/settings_import.py:695
+#: leirirekkari/views/settings_import.py:715
+#: leirirekkari/views/settings_import.py:727
+#: leirirekkari/views/settings_import.py:739
+#: leirirekkari/views/settings_import.py:754
+#: leirirekkari/views/settings_import.py:772
+#: leirirekkari/views/settings_import.py:783
+msgid "Added medical data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:794
+#: leirirekkari/views/settings_import.py:805
+#: leirirekkari/views/settings_import.py:816
+#: leirirekkari/views/settings_import.py:827
+#: leirirekkari/views/settings_import.py:838
+#: leirirekkari/views/settings_import.py:849
+msgid "Added next of kin data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:873
+msgid "Added agegroup data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:886
+msgid "Added spiritual data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:899
+msgid "Added notes data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:909
+msgid "Added title data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:918
+msgid "Added sleeping at data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:939
+#: leirirekkari/views/settings_import.py:958
+#: leirirekkari/views/settings_import.py:977
+#: leirirekkari/views/settings_import.py:996
+msgid "Added participant wish to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1004
+msgid "Added specialities data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1013
+msgid "Added pj course data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1026
+msgid "Added roverway data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1038
+#: leirirekkari/views/settings_import.py:1049
+#: leirirekkari/views/settings_import.py:1069
+#: leirirekkari/views/settings_import.py:1089
+#: leirirekkari/views/settings_import.py:1109
+#: leirirekkari/views/settings_import.py:1129
+#: leirirekkari/views/settings_import.py:1140
+msgid "Added participant enlistment data to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1146
+#: leirirekkari/views/settings_import.py:1264
+#: leirirekkari/views/settings_import.py:1285
+msgid "Added metadata to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1151
+msgid "Imported answer to ${bookingcode}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1178
+msgid "Import polku answers pricings"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1316
+msgid "Import polku contacts"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1327
+msgid "Participant with membernumber ${membernumber} not found, skipping."
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1360
+msgid "Imported contactinfo to ${membernumber}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1421
+msgid "Duplicate, skipping"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1472
+msgid "Imported presence to ${bookingnumber}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1545
+msgid "Empty username, skipping"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1557
+msgid "User with ${username} allready exists, skipping"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1572
+#: leirirekkari/views/settings_user.py:203 leirirekkari/views/settings_user.py:372
+msgid "User account information for"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1573
+#: leirirekkari/views/settings_user.py:204 leirirekkari/views/settings_user.py:373
+msgid ""
+"Hi\n"
+"\n"
+"Here are your account details for ${site_name}.\n"
+"\n"
+"Username: ${username}\n"
+"\n"
+"Password: ${password}\n"
+"\n"
+"You can login at ${site_url}\n"
+"\n"
+"Remember to behave and that all the personal data is classified and should be"
+" used and distributed carefully."
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1581
+msgid "Imported user ${username} and sended password by email to address ${email}"
+msgstr ""
+
+#: leirirekkari/views/settings_import.py:1584
+msgid "Imported user ${username} with password ${password}"
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:80
+msgid "Subcamp created."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:83
+#: leirirekkari/views/settings_organization.py:136
+msgid "Please provide subcamp name."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:133
+msgid "Subcamp saved."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:180
+msgid "Village created."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:183
+#: leirirekkari/views/settings_organization.py:242
+msgid "Please provide village name."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:239
+msgid "Village saved."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:287
+msgid "Subunit created."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:290
+#: leirirekkari/views/settings_organization.py:348
+msgid "Please provide subunit name."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:345
+msgid "Subunit saved."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:395
+msgid "Club created."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:398
+#: leirirekkari/views/settings_organization.py:460
+msgid "Please provide club name."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:457
+msgid "Club saved."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:509
+msgid "Village kitchen created."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:512
+#: leirirekkari/views/settings_organization.py:580
+msgid "Please provide village_kitchen name."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:516
+msgid "New village_kitchen"
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:577
+msgid "Village kitchen saved."
+msgstr ""
+
+#: leirirekkari/views/settings_organization.py:585
+msgid "Edit village_kitchen"
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:148 leirirekkari/views/settings_user.py:302
+#: leirirekkari/views/settings_user.py:756
+msgid "Passwords too short, must be at least 12 characters long."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:151 leirirekkari/views/settings_user.py:305
+#: leirirekkari/views/settings_user.py:759
+msgid "Passwords didn't match."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:184
+msgid "User created."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:217 leirirekkari/views/settings_user.py:385
+msgid "User with that username allready exists. Please choose another one."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:382 leirirekkari/views/settings_user.py:790
+msgid "User saved."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:417
+msgid "User activated."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:445
+msgid "User deactivated."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:472
+msgid "User deleted."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:573
+msgid "Group created."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:577 leirirekkari/views/settings_user.py:641
+msgid "Group with that name allready exists."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:638
+msgid "Group saved."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:706 leirirekkari/views/settings_user.py:798
+msgid "Me"
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:764
+msgid "Password changed."
+msgstr ""
+
+#: leirirekkari/views/settings_user.py:795
+msgid "Please provide email address."
+msgstr ""
+

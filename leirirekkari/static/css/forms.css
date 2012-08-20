@@ -1,0 +1,106 @@
+label, form label {
+	font-weight: bold;
+	display: block;
+	line-height: 13px;
+	margin-bottom: 4px;
+}
+
+input[type=submit] {
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	padding: 4px;
+	font-weight: bold;
+	min-width: 95px;
+}
+
+input[type=reset] {
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	padding: 4px;
+	font-weight: bold;
+	color: #555555;
+	background: #EEEEEE;
+	margin-left: 15px;
+	min-width: 95px;
+}
+
+
+input[type=text],
+input[type=password] {
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	padding: 4px;
+	margin-top: 3px;
+	min-width: 200px;
+	max-width: 300px;
+}
+
+textarea {
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	padding: 4px;
+}
+
+select {
+	margin-top: 3px;
+	min-width: 209px;
+	max-width: 300px;
+}
+
+.haku_input_container {
+	float: left;
+	margin-right: 30px;
+}
+
+
+legend {
+    padding: 0px 4px;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+fieldset {
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+
+textarea {
+    margin-top: 2px;
+    min-height: 80px;
+}
+
+.language_skill_row label {
+    float: left;
+}
+
+.phone_row label {
+    float: left;
+}
+
+.phone_row input[type="text"] {
+    min-width: 100px;
+    max-width: 150px;
+    margin-right: 5px;
+}
+
+.presence_row label {
+    float: left;
+}
+
+.presence_row input[type="text"].presence_starts,
+.presence_row input[type="text"].presence_ends {
+    min-width: 100px;
+    max-width: 150px;
+    margin-right: 5px;
+}
+
+.presence_row input[type="text"].presence_note {
+    min-width: 100px;
+    max-width: 400px;
+    margin-right: 5px;
+}
+
+.presence_row textarea.presence_description {
+    min-width: 200px;
+    max-width: 400px;
+}

@@ -1,0 +1,24 @@
+#header_container,
+#breadcrumb,
+#footer_container,
+#actionsMenu,
+.hideprint {
+    display: none;
+}
+
+
+.wideprint {
+    width: 100% !important;
+}
+
+#pDebug {
+    display: none !important;
+}
+
+#main_container {
+    padding-top: 0px;
+}
+
+.showprint {
+    display: block;
+}

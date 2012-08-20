@@ -1,0 +1,19 @@
+th.header { 
+    background-image: url(../js/libs/jquery.tablesorter/themes/blue/bg.gif);
+    cursor: pointer; 
+    font-weight: bold; 
+    background-repeat: no-repeat; 
+    background-position: center right; 
+    padding-right: 20px; 
+    margin-left: -1px; 
+}
+
+th.headerSortDown { 
+    background-image: url(../js/libs/jquery.tablesorter/themes/blue/desc.gif);
+    background-color: #3399FF; 
+}
+
+th.headerSortUp { 
+    background-image: url(../js/libs/jquery.tablesorter/themes/blue/asc.gif);
+    background-color: #3399FF; 
+}
